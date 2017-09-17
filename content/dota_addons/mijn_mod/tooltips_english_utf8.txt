@@ -1,0 +1,1453 @@
+﻿		// DOTA 2 MODKIT GENERATED TOOLTIPS FOR: mijn_mod
+		// Keys already defined in addon_english.txt are not listed, nor are Modifiers with the property "IsHidden" "1".
+
+		// ******************** HEROES ********************
+		"npc_dota_hero_dark_seer"                                                         "Npc Imba Hero Dark Seer"
+		"npc_dota_hero_enigma"                                                            "Npc Imba Hero Enigma"
+		"npc_dota_hero_keeper_of_the_light"                                               "Npc Imba Hero Keeper Of The Light"
+		"npc_dota_hero_puck"                                                              "Npc Imba Hero Puck"
+
+		// ******************** UNITS ********************
+		"npc_dummy_unit_"                                                                 "Dummy Unit "
+		"npc_dummy_mirana_arrow"                                                          "Dummy Mirana Arrow"
+		"npc_dota_xp_granter"                                                             "Dota Xp Granter"
+		"npc_dota_xp_granter2"                                                            "Dota Xp Granter2"
+		"npc_dota_kobold_overboss"                                                        "Dota Kobold Overboss"
+		"npc_dota_kobold_radiantboss"                                                     "Dota Kobold Radiantboss"
+		"npc_dota_kobold_underboss"                                                       "Dota Kobold Underboss"
+		"npc_vision_revealer"                                                             "Vision Revealer"
+		"npc_dota_xp_global"                                                              "Dota Xp Global"
+		"npc_dota_creature_basic_zombie"                                                  "Dota Creature Basic Zombie"
+		"npc_dota_creature_berserk_zombie"                                                "Dota Creature Berserk Zombie"
+		"npc_dota_treasure_courier"                                                       "Dota Treasure Courier"
+		"npc_imba_hero_dark_seer"                                                         "Imba Hero Dark Seer"
+		"npc_imba_hero_enigma"                                                            "Imba Hero Enigma"
+		"npc_imba_hero_keeper_of_the_light"                                               "Imba Hero Keeper Of The Light"
+
+		// ******************** ABILITY MODIFIERS ********************
+		"DOTA_Tooltip_modifier_channel_start"                                             "Channel Start"
+		"DOTA_Tooltip_modifier_channel_start_Description"                                 ""
+
+		"DOTA_Tooltip_modifier_imba_roshan_bash_debuff"                                   "Imba Roshan Bash Debuff"
+		"DOTA_Tooltip_modifier_imba_roshan_bash_debuff_Description"                       ""
+
+		"DOTA_Tooltip_modifier_imba_roshan_slam"                                          "Imba Roshan Slam"
+		"DOTA_Tooltip_modifier_imba_roshan_slam_Description"                              ""
+
+		"DOTA_Tooltip_modifier_imba_roshling_bash_debuff"                                 "Imba Roshling Bash Debuff"
+		"DOTA_Tooltip_modifier_imba_roshling_bash_debuff_Description"                     ""
+
+		"DOTA_Tooltip_modifier_imba_roshling_aura_effect"                                 "Imba Roshling Aura Effect"
+		"DOTA_Tooltip_modifier_imba_roshling_aura_effect_Description"                     ""
+
+		"DOTA_Tooltip_modifier_imba_roshan_rage_stack"                                    "Imba Roshan Rage Stack"
+		"DOTA_Tooltip_modifier_imba_roshan_rage_stack_Description"                        ""
+
+		"DOTA_Tooltip_modifier_imba_tower_laser_blind"                                    "Imba Tower Laser Blind"
+		"DOTA_Tooltip_modifier_imba_tower_laser_blind_Description"                        ""
+
+		"DOTA_Tooltip_modifier_imba_tower_grievous_wounds_debuff"                         "Imba Tower Grievous Wounds Debuff"
+		"DOTA_Tooltip_modifier_imba_tower_grievous_wounds_debuff_Description"             ""
+
+		"DOTA_Tooltip_modifier_imba_tower_essence_drain_agi_stacks"                       "Imba Tower Essence Drain Agi Stacks"
+		"DOTA_Tooltip_modifier_imba_tower_essence_drain_agi_stacks_Description"           ""
+
+		"DOTA_Tooltip_modifier_imba_tower_fervor_buff"                                    "Imba Tower Fervor Buff"
+		"DOTA_Tooltip_modifier_imba_tower_fervor_buff_Description"                        ""
+
+		"DOTA_Tooltip_modifier_imba_tower_berserk_buff"                                   "Imba Tower Berserk Buff"
+		"DOTA_Tooltip_modifier_imba_tower_berserk_buff_Description"                       ""
+
+		"DOTA_Tooltip_modifier_imba_tower_spell_shield_aura"                              "Imba Tower Spell Shield Aura"
+		"DOTA_Tooltip_modifier_imba_tower_spell_shield_aura_Description"                  ""
+
+		"DOTA_Tooltip_modifier_imba_tower_plague_aura"                                    "Imba Tower Plague Aura"
+		"DOTA_Tooltip_modifier_imba_tower_plague_aura_Description"                        ""
+
+		"DOTA_Tooltip_modifier_imba_culling_blade_stun"                                   "Imba Culling Blade Stun"
+		"DOTA_Tooltip_modifier_imba_culling_blade_stun_Description"                       ""
+
+		"DOTA_Tooltip_modifier_phase_shift_datadriven"                                    "Phase Shift Datadriven"
+		"DOTA_Tooltip_modifier_phase_shift_datadriven_Description"                        ""
+
+		"DOTA_Tooltip_modifier_imba_hook_dummy"                                           "Imba Hook Dummy"
+		"DOTA_Tooltip_modifier_imba_hook_dummy_Description"                               ""
+
+		"DOTA_Tooltip_modifier_shrapnel_stack_counter_datadriven"                         "Shrapnel Stack Counter Datadriven"
+		"DOTA_Tooltip_modifier_shrapnel_stack_counter_datadriven_Description"             ""
+
+		"DOTA_Tooltip_modifier_shrapnel_dummy_datadriven"                                 "Shrapnel Dummy Datadriven"
+		"DOTA_Tooltip_modifier_shrapnel_dummy_datadriven_Description"                     ""
+
+		"DOTA_Tooltip_modifier_shrapnel_slow_datadriven"                                  "Shrapnel Slow Datadriven"
+		"DOTA_Tooltip_modifier_shrapnel_slow_datadriven_Description"                      ""
+
+		"DOTA_Tooltip_modifier_imba_time_walk_buff"                                       "Imba Time Walk Buff"
+		"DOTA_Tooltip_modifier_imba_time_walk_buff_Description"                           ""
+
+		"DOTA_Tooltip_modifier_imba_kineticfield_enemy"                                   "Imba Kineticfield Enemy"
+		"DOTA_Tooltip_modifier_imba_kineticfield_enemy_Description"                       ""
+
+		"DOTA_Tooltip_modifier_imba_staticstorm_enemy"                                    "Imba Staticstorm Enemy"
+		"DOTA_Tooltip_modifier_imba_staticstorm_enemy_Description"                        ""
+
+		"DOTA_Tooltip_modifier_chilling_touch_stack_datadriven"                           "Chilling Touch Stack Datadriven"
+		"DOTA_Tooltip_modifier_chilling_touch_stack_datadriven_Description"               ""
+
+		"DOTA_Tooltip_modifier_cold_feet_thinker_datadriven"                              "Cold Feet Thinker Datadriven"
+		"DOTA_Tooltip_modifier_cold_feet_thinker_datadriven_Description"                  ""
+
+		"DOTA_Tooltip_modifier_cold_feet_debuff_datadriven"                               "Cold Feet Debuff Datadriven"
+		"DOTA_Tooltip_modifier_cold_feet_debuff_datadriven_Description"                   ""
+
+		"DOTA_Tooltip_modifier_cold_feet_stun_datadriven"                                 "Cold Feet Stun Datadriven"
+		"DOTA_Tooltip_modifier_cold_feet_stun_datadriven_Description"                     ""
+
+		"DOTA_Tooltip_modifier_ice_vortex_thinker_datadriven"                             "Ice Vortex Thinker Datadriven"
+		"DOTA_Tooltip_modifier_ice_vortex_thinker_datadriven_Description"                 ""
+
+		"DOTA_Tooltip_modifier_ice_vortex_datadriven"                                     "Ice Vortex Datadriven"
+		"DOTA_Tooltip_modifier_ice_vortex_datadriven_Description"                         ""
+
+		"DOTA_Tooltip_modifier_dummy_tracer"                                              "Dummy Tracer"
+		"DOTA_Tooltip_modifier_dummy_tracer_Description"                                  ""
+
+		"DOTA_Tooltip_modifier_ice_blast_debuff_datadriven"                               "Ice Blast Debuff Datadriven"
+		"DOTA_Tooltip_modifier_ice_blast_debuff_datadriven_Description"                   ""
+
+		"DOTA_Tooltip_modifier_shock_particle"                                            "Shock Particle"
+		"DOTA_Tooltip_modifier_shock_particle_Description"                                ""
+
+		"DOTA_Tooltip_modifier_echo_slam_echo"                                            "Echo Slam Echo"
+		"DOTA_Tooltip_modifier_echo_slam_echo_Description"                                ""
+
+		"DOTA_Tooltip_modifier_reality_rift_datadriven"                                   "Reality Rift Datadriven"
+		"DOTA_Tooltip_modifier_reality_rift_datadriven_Description"                       ""
+
+		"DOTA_Tooltip_modifier_ghostship_rum_datadriven"                                  "Ghostship Rum Datadriven"
+		"DOTA_Tooltip_modifier_ghostship_rum_datadriven_Description"                      ""
+
+		"DOTA_Tooltip_precache"                                                           "Precache"
+		"DOTA_Tooltip_precache_Description"                                               ""
+
+		"DOTA_Tooltip_modifier_torrent_slow_debuff_datadriven"                            "Torrent Slow Debuff Datadriven"
+		"DOTA_Tooltip_modifier_torrent_slow_debuff_datadriven_Description"                ""
+
+		"DOTA_Tooltip_modifier_x_marks_the_spot_debuff_datadriven"                        "X Marks The Spot Debuff Datadriven"
+		"DOTA_Tooltip_modifier_x_marks_the_spot_debuff_datadriven_Description"            ""
+
+		"DOTA_Tooltip_modifier_x_marks_the_spot_transfered_datadriven"                    "X Marks The Spot Transfered Datadriven"
+		"DOTA_Tooltip_modifier_x_marks_the_spot_transfered_datadriven_Description"        ""
+
+		"DOTA_Tooltip_modifier_mana_drain_datadriven"                                     "Mana Drain Datadriven"
+		"DOTA_Tooltip_modifier_mana_drain_datadriven_Description"                         ""
+
+		"DOTA_Tooltip_modifier_teleportation"                                             "Teleportation"
+		"DOTA_Tooltip_modifier_teleportation_Description"                                 ""
+
+		"DOTA_Tooltip_modifier_overcharge_buff_datadriven"                                "Overcharge Buff Datadriven"
+		"DOTA_Tooltip_modifier_overcharge_buff_datadriven_Description"                    ""
+
+		"DOTA_Tooltip_modifier_relocate_channel_datadriven"                               "Relocate Channel Datadriven"
+		"DOTA_Tooltip_modifier_relocate_channel_datadriven_Description"                   ""
+
+		"DOTA_Tooltip_modifier_relocate_return_datadriven"                                "Relocate Return Datadriven"
+		"DOTA_Tooltip_modifier_relocate_return_datadriven_Description"                    ""
+
+		"DOTA_Tooltip_modifier_relocate_returning_teleport_datadriven"                    "Relocate Returning Teleport Datadriven"
+		"DOTA_Tooltip_modifier_relocate_returning_teleport_datadriven_Description"        ""
+
+		"DOTA_Tooltip_modifier_spirits_caster_datadriven"                                 "Spirits Caster Datadriven"
+		"DOTA_Tooltip_modifier_spirits_caster_datadriven_Description"                     ""
+
+		"DOTA_Tooltip_modifier_spirits_spirit_datadriven"                                 "Spirits Spirit Datadriven"
+		"DOTA_Tooltip_modifier_spirits_spirit_datadriven_Description"                     ""
+
+		"DOTA_Tooltip_modifier_spirits_spirit_collision_with_hero_datadriven"             "Spirits Spirit Collision With Hero Datadriven"
+		"DOTA_Tooltip_modifier_spirits_spirit_collision_with_hero_datadriven_Description"		""
+
+		"DOTA_Tooltip_modifier_tether_caster_datadriven"                                  "Tether Caster Datadriven"
+		"DOTA_Tooltip_modifier_tether_caster_datadriven_Description"                      ""
+
+		"DOTA_Tooltip_modifier_tether_ally_datadriven"                                    "Tether Ally Datadriven"
+		"DOTA_Tooltip_modifier_tether_ally_datadriven_Description"                        ""
+
+		"DOTA_Tooltip_modifier_tether_slow_datadriven"                                    "Tether Slow Datadriven"
+		"DOTA_Tooltip_modifier_tether_slow_datadriven_Description"                        ""
+
+		"DOTA_Tooltip_gemini_abyssal_vortex_mod"                                          "Gemini Abyssal Vortex Mod"
+		"DOTA_Tooltip_gemini_abyssal_vortex_mod_Description"                              ""
+
+		"DOTA_Tooltip_modifier_malefice_stun"                                             "Malefice Stun"
+		"DOTA_Tooltip_modifier_malefice_stun_Description"                                 ""
+
+		"DOTA_Tooltip_extra_black_hole"                                                   "Extra Black Hole"
+		"DOTA_Tooltip_extra_black_hole_Description"                                       ""
+
+		"DOTA_Tooltip_modifier_get_xp"                                                    "Get Xp"
+		"DOTA_Tooltip_modifier_get_xp_Description"                                        ""
+
+		"DOTA_Tooltip_modifier_get_xp_global"                                             "Get Xp Global"
+		"DOTA_Tooltip_modifier_get_xp_global_Description"                                 ""
+
+		"DOTA_Tooltip_modifier_invis_revealed"                                            "Invis Revealed"
+		"DOTA_Tooltip_modifier_invis_revealed_Description"                                ""
+
+		"DOTA_Tooltip_modifier_ion_shell_datadriven"                                      "Ion Shell Datadriven"
+		"DOTA_Tooltip_modifier_ion_shell_datadriven_Description"                          ""
+
+		"DOTA_Tooltip_modifier_surge_datadriven"                                          "Surge Datadriven"
+		"DOTA_Tooltip_modifier_surge_datadriven_Description"                              ""
+
+		"DOTA_Tooltip_modifier_vacuum_thinker_datadriven"                                 "Vacuum Thinker Datadriven"
+		"DOTA_Tooltip_modifier_vacuum_thinker_datadriven_Description"                     ""
+
+		"DOTA_Tooltip_modifier_vacuum_datadriven"                                         "Vacuum Datadriven"
+		"DOTA_Tooltip_modifier_vacuum_datadriven_Description"                             ""
+
+		"DOTA_Tooltip_modifier_blinding_light_datadriven"                                 "Blinding Light Datadriven"
+		"DOTA_Tooltip_modifier_blinding_light_datadriven_Description"                     ""
+
+		"DOTA_Tooltip_modifier_mana_leak_datadriven"                                      "Mana Leak Datadriven"
+		"DOTA_Tooltip_modifier_mana_leak_datadriven_Description"                          ""
+
+		"DOTA_Tooltip_modifier_recall_datadriven"                                         "Recall Datadriven"
+		"DOTA_Tooltip_modifier_recall_datadriven_Description"                             ""
+
+		"DOTA_Tooltip_modifier_spirit_form_datadriven"                                    "Spirit Form Datadriven"
+		"DOTA_Tooltip_modifier_spirit_form_datadriven_Description"                        ""
+
+		"DOTA_Tooltip_modifier_spirit_form_illuminate_dummy_datadriven"                   "Spirit Form Illuminate Dummy Datadriven"
+		"DOTA_Tooltip_modifier_spirit_form_illuminate_dummy_datadriven_Description"       ""
+
+		"DOTA_Tooltip_modifier_spirit_form_illuminate_vision_field_timer_datadriven"      "Spirit Form Illuminate Vision Field Timer Datadriven"
+		"DOTA_Tooltip_modifier_spirit_form_illuminate_vision_field_timer_datadriven_Description"		""
+
+
+		// ******************** ITEM MODIFIERS ********************
+		"DOTA_Tooltip_modifier_item_shield"                                               "Item Shield"
+		"DOTA_Tooltip_modifier_item_shield_Description"                                   ""
+
+
+		// ******************** ABILITIES ********************
+		"DOTA_Tooltip_ability_example_ability"                                            "Example Ability"
+		"DOTA_Tooltip_ability_example_ability_Description"                                ""
+		"DOTA_Tooltip_ability_example_ability_duration"                                   "DURATION:"
+		"DOTA_Tooltip_ability_example_ability_damage"                                     "DAMAGE:"
+		"DOTA_Tooltip_ability_example_ability_radius"                                     "RADIUS:"
+		"DOTA_Tooltip_ability_example_ability_distance"                                   "DISTANCE:"
+		"DOTA_Tooltip_ability_example_ability_height"                                     "HEIGHT:"
+
+		"DOTA_Tooltip_ability_dummy_unit"                                                 "Dummy Unit"
+		"DOTA_Tooltip_ability_dummy_unit_Description"                                     ""
+
+		"DOTA_Tooltip_ability_barebones_empty1"                                           "Barebones Empty1"
+		"DOTA_Tooltip_ability_barebones_empty1_Description"                               ""
+
+		"DOTA_Tooltip_ability_barebones_empty2"                                           "Barebones Empty2"
+		"DOTA_Tooltip_ability_barebones_empty2_Description"                               ""
+
+		"DOTA_Tooltip_ability_barebones_empty3"                                           "Barebones Empty3"
+		"DOTA_Tooltip_ability_barebones_empty3_Description"                               ""
+
+		"DOTA_Tooltip_ability_barebones_empty4"                                           "Barebones Empty4"
+		"DOTA_Tooltip_ability_barebones_empty4_Description"                               ""
+
+		"DOTA_Tooltip_ability_barebones_empty5"                                           "Barebones Empty5"
+		"DOTA_Tooltip_ability_barebones_empty5_Description"                               ""
+
+		"DOTA_Tooltip_ability_barebones_empty6"                                           "Barebones Empty6"
+		"DOTA_Tooltip_ability_barebones_empty6_Description"                               ""
+
+		"DOTA_Tooltip_ability_dummy_unit_state"                                           "Dummy Unit State"
+		"DOTA_Tooltip_ability_dummy_unit_state_Description"                               ""
+
+		"DOTA_Tooltip_ability_attribute_bonus_str_main_attribute_bonus"                   "MAIN ATTRIBUTE BONUS:"
+		"DOTA_Tooltip_ability_attribute_bonus_str_secondary_attribute_bonus"              "SECONDARY ATTRIBUTE BONUS:"
+
+		"DOTA_Tooltip_ability_attribute_bonus_int_main_attribute_bonus"                   "MAIN ATTRIBUTE BONUS:"
+		"DOTA_Tooltip_ability_attribute_bonus_int_secondary_attribute_bonus"              "SECONDARY ATTRIBUTE BONUS:"
+
+		"DOTA_Tooltip_ability_attribute_bonus_agi_main_attribute_bonus"                   "MAIN ATTRIBUTE BONUS:"
+		"DOTA_Tooltip_ability_attribute_bonus_agi_secondary_attribute_bonus"              "SECONDARY ATTRIBUTE BONUS:"
+
+		"DOTA_Tooltip_ability_attribute_bonus_str_random_omg_3a2u"                        "Attribute Bonus Str Random Omg 3a2u"
+		"DOTA_Tooltip_ability_attribute_bonus_str_random_omg_3a2u_Description"            ""
+		"DOTA_Tooltip_ability_attribute_bonus_str_random_omg_3a2u_main_attribute_bonus"   "MAIN ATTRIBUTE BONUS:"
+		"DOTA_Tooltip_ability_attribute_bonus_str_random_omg_3a2u_secondary_attribute_bonus"		"SECONDARY ATTRIBUTE BONUS:"
+
+		"DOTA_Tooltip_ability_attribute_bonus_int_random_omg_3a2u"                        "Attribute Bonus Int Random Omg 3a2u"
+		"DOTA_Tooltip_ability_attribute_bonus_int_random_omg_3a2u_Description"            ""
+		"DOTA_Tooltip_ability_attribute_bonus_int_random_omg_3a2u_main_attribute_bonus"   "MAIN ATTRIBUTE BONUS:"
+		"DOTA_Tooltip_ability_attribute_bonus_int_random_omg_3a2u_secondary_attribute_bonus"		"SECONDARY ATTRIBUTE BONUS:"
+
+		"DOTA_Tooltip_ability_attribute_bonus_agi_random_omg_3a2u"                        "Attribute Bonus Agi Random Omg 3a2u"
+		"DOTA_Tooltip_ability_attribute_bonus_agi_random_omg_3a2u_Description"            ""
+		"DOTA_Tooltip_ability_attribute_bonus_agi_random_omg_3a2u_main_attribute_bonus"   "MAIN ATTRIBUTE BONUS:"
+		"DOTA_Tooltip_ability_attribute_bonus_agi_random_omg_3a2u_secondary_attribute_bonus"		"SECONDARY ATTRIBUTE BONUS:"
+
+		"DOTA_Tooltip_ability_attribute_bonus_str_random_omg_4a1u"                        "Attribute Bonus Str Random Omg 4a1u"
+		"DOTA_Tooltip_ability_attribute_bonus_str_random_omg_4a1u_Description"            ""
+		"DOTA_Tooltip_ability_attribute_bonus_str_random_omg_4a1u_main_attribute_bonus"   "MAIN ATTRIBUTE BONUS:"
+		"DOTA_Tooltip_ability_attribute_bonus_str_random_omg_4a1u_secondary_attribute_bonus"		"SECONDARY ATTRIBUTE BONUS:"
+
+		"DOTA_Tooltip_ability_attribute_bonus_int_random_omg_4a1u"                        "Attribute Bonus Int Random Omg 4a1u"
+		"DOTA_Tooltip_ability_attribute_bonus_int_random_omg_4a1u_Description"            ""
+		"DOTA_Tooltip_ability_attribute_bonus_int_random_omg_4a1u_main_attribute_bonus"   "MAIN ATTRIBUTE BONUS:"
+		"DOTA_Tooltip_ability_attribute_bonus_int_random_omg_4a1u_secondary_attribute_bonus"		"SECONDARY ATTRIBUTE BONUS:"
+
+		"DOTA_Tooltip_ability_attribute_bonus_agi_random_omg_4a1u"                        "Attribute Bonus Agi Random Omg 4a1u"
+		"DOTA_Tooltip_ability_attribute_bonus_agi_random_omg_4a1u_Description"            ""
+		"DOTA_Tooltip_ability_attribute_bonus_agi_random_omg_4a1u_main_attribute_bonus"   "MAIN ATTRIBUTE BONUS:"
+		"DOTA_Tooltip_ability_attribute_bonus_agi_random_omg_4a1u_secondary_attribute_bonus"		"SECONDARY ATTRIBUTE BONUS:"
+
+		"DOTA_Tooltip_ability_attribute_bonus_str_random_omg_4a2u"                        "Attribute Bonus Str Random Omg 4a2u"
+		"DOTA_Tooltip_ability_attribute_bonus_str_random_omg_4a2u_Description"            ""
+		"DOTA_Tooltip_ability_attribute_bonus_str_random_omg_4a2u_main_attribute_bonus"   "MAIN ATTRIBUTE BONUS:"
+		"DOTA_Tooltip_ability_attribute_bonus_str_random_omg_4a2u_secondary_attribute_bonus"		"SECONDARY ATTRIBUTE BONUS:"
+
+		"DOTA_Tooltip_ability_attribute_bonus_int_random_omg_4a2u"                        "Attribute Bonus Int Random Omg 4a2u"
+		"DOTA_Tooltip_ability_attribute_bonus_int_random_omg_4a2u_Description"            ""
+		"DOTA_Tooltip_ability_attribute_bonus_int_random_omg_4a2u_main_attribute_bonus"   "MAIN ATTRIBUTE BONUS:"
+		"DOTA_Tooltip_ability_attribute_bonus_int_random_omg_4a2u_secondary_attribute_bonus"		"SECONDARY ATTRIBUTE BONUS:"
+
+		"DOTA_Tooltip_ability_attribute_bonus_agi_random_omg_4a2u"                        "Attribute Bonus Agi Random Omg 4a2u"
+		"DOTA_Tooltip_ability_attribute_bonus_agi_random_omg_4a2u_Description"            ""
+		"DOTA_Tooltip_ability_attribute_bonus_agi_random_omg_4a2u_main_attribute_bonus"   "MAIN ATTRIBUTE BONUS:"
+		"DOTA_Tooltip_ability_attribute_bonus_agi_random_omg_4a2u_secondary_attribute_bonus"		"SECONDARY ATTRIBUTE BONUS:"
+
+		"DOTA_Tooltip_ability_attribute_bonus_str_random_omg_5a1u"                        "Attribute Bonus Str Random Omg 5a1u"
+		"DOTA_Tooltip_ability_attribute_bonus_str_random_omg_5a1u_Description"            ""
+		"DOTA_Tooltip_ability_attribute_bonus_str_random_omg_5a1u_main_attribute_bonus"   "MAIN ATTRIBUTE BONUS:"
+		"DOTA_Tooltip_ability_attribute_bonus_str_random_omg_5a1u_secondary_attribute_bonus"		"SECONDARY ATTRIBUTE BONUS:"
+
+		"DOTA_Tooltip_ability_attribute_bonus_int_random_omg_5a1u"                        "Attribute Bonus Int Random Omg 5a1u"
+		"DOTA_Tooltip_ability_attribute_bonus_int_random_omg_5a1u_Description"            ""
+		"DOTA_Tooltip_ability_attribute_bonus_int_random_omg_5a1u_main_attribute_bonus"   "MAIN ATTRIBUTE BONUS:"
+		"DOTA_Tooltip_ability_attribute_bonus_int_random_omg_5a1u_secondary_attribute_bonus"		"SECONDARY ATTRIBUTE BONUS:"
+
+		"DOTA_Tooltip_ability_attribute_bonus_agi_random_omg_5a1u"                        "Attribute Bonus Agi Random Omg 5a1u"
+		"DOTA_Tooltip_ability_attribute_bonus_agi_random_omg_5a1u_Description"            ""
+		"DOTA_Tooltip_ability_attribute_bonus_agi_random_omg_5a1u_main_attribute_bonus"   "MAIN ATTRIBUTE BONUS:"
+		"DOTA_Tooltip_ability_attribute_bonus_agi_random_omg_5a1u_secondary_attribute_bonus"		"SECONDARY ATTRIBUTE BONUS:"
+
+		"DOTA_Tooltip_ability_random_omg_ability_layout_changer_4"                        "Random Omg Ability Layout Changer 4"
+		"DOTA_Tooltip_ability_random_omg_ability_layout_changer_4_Description"            ""
+
+		"DOTA_Tooltip_ability_random_omg_ability_layout_changer_5"                        "Random Omg Ability Layout Changer 5"
+		"DOTA_Tooltip_ability_random_omg_ability_layout_changer_5_Description"            ""
+
+		"DOTA_Tooltip_ability_random_omg_ability_layout_changer_6"                        "Random Omg Ability Layout Changer 6"
+		"DOTA_Tooltip_ability_random_omg_ability_layout_changer_6_Description"            ""
+
+		"DOTA_Tooltip_ability_imba_frantic_buff"                                          "Imba Frantic Buff"
+		"DOTA_Tooltip_ability_imba_frantic_buff_Description"                              ""
+
+		"DOTA_Tooltip_ability_imba_ancient_buffs"                                         "Imba Ancient Buffs"
+		"DOTA_Tooltip_ability_imba_ancient_buffs_Description"                             ""
+		"DOTA_Tooltip_ability_imba_ancient_buffs_regen_per_minute"                        "REGEN PER MINUTE:"
+		"DOTA_Tooltip_ability_imba_ancient_buffs_armor_per_minute"                        "ARMOR PER MINUTE:"
+
+		"DOTA_Tooltip_ability_imba_creep_buffs"                                           "Imba Creep Buffs"
+		"DOTA_Tooltip_ability_imba_creep_buffs_Description"                               ""
+		"DOTA_Tooltip_ability_imba_creep_buffs_structure_damage_per_minute"               "STRUCTURE DAMAGE PER MINUTE:"
+		"DOTA_Tooltip_ability_imba_creep_buffs_hero_damage_per_minute"                    "HERO DAMAGE PER MINUTE:"
+
+		"DOTA_Tooltip_ability_imba_fountain_buffs"                                        "Imba Fountain Buffs"
+		"DOTA_Tooltip_ability_imba_fountain_buffs_Description"                            ""
+		"DOTA_Tooltip_ability_imba_fountain_buffs_as_bonus"                               "AS BONUS:"
+		"DOTA_Tooltip_ability_imba_fountain_buffs_range_bonus"                            "RANGE BONUS:"
+		"DOTA_Tooltip_ability_imba_fountain_buffs_bash_radius"                            "BASH RADIUS:"
+		"DOTA_Tooltip_ability_imba_fountain_buffs_bash_duration"                          "BASH DURATION:"
+		"DOTA_Tooltip_ability_imba_fountain_buffs_bash_distance"                          "BASH DISTANCE:"
+		"DOTA_Tooltip_ability_imba_fountain_buffs_bash_height"                            "BASH HEIGHT:"
+
+		"DOTA_Tooltip_ability_imba_roshan_bash"                                           "Imba Roshan Bash"
+		"DOTA_Tooltip_ability_imba_roshan_bash_Description"                               ""
+		"DOTA_Tooltip_ability_imba_roshan_bash_debuff_duration"                           "DEBUFF DURATION:"
+		"DOTA_Tooltip_ability_imba_roshan_bash_base_damage"                               "BASE DAMAGE:"
+		"DOTA_Tooltip_ability_imba_roshan_bash_stacking_damage"                           "STACKING DAMAGE:"
+		"DOTA_Tooltip_ability_imba_roshan_bash_armor_reduction"                           "ARMOR REDUCTION:"
+		"DOTA_Tooltip_ability_imba_roshan_bash_bash_duration"                             "BASH DURATION:"
+
+		"DOTA_Tooltip_ability_imba_roshan_slam"                                           "Imba Roshan Slam"
+		"DOTA_Tooltip_ability_imba_roshan_slam_Description"                               ""
+		"DOTA_Tooltip_ability_imba_roshan_slam_slam_radius"                               "SLAM RADIUS:"
+		"DOTA_Tooltip_ability_imba_roshan_slam_base_damage"                               "BASE DAMAGE:"
+		"DOTA_Tooltip_ability_imba_roshan_slam_dmg_per_minute"                            "DMG PER MINUTE:"
+		"DOTA_Tooltip_ability_imba_roshan_slam_armor_reduction"                           "ARMOR REDUCTION:"
+		"DOTA_Tooltip_ability_imba_roshan_slam_slow"                                      "SLOW:"
+		"DOTA_Tooltip_ability_imba_roshan_slam_debuff_duration"                           "DEBUFF DURATION:"
+
+		"DOTA_Tooltip_ability_imba_roshan_summon"                                         "Imba Roshan Summon"
+		"DOTA_Tooltip_ability_imba_roshan_summon_Description"                             ""
+		"DOTA_Tooltip_ability_imba_roshan_summon_summon_duration"                         "SUMMON DURATION:"
+		"DOTA_Tooltip_ability_imba_roshan_summon_summon_amount"                           "SUMMON AMOUNT:"
+
+		"DOTA_Tooltip_ability_imba_roshling_bash"                                         "Imba Roshling Bash"
+		"DOTA_Tooltip_ability_imba_roshling_bash_Description"                             ""
+		"DOTA_Tooltip_ability_imba_roshling_bash_debuff_duration"                         "DEBUFF DURATION:"
+		"DOTA_Tooltip_ability_imba_roshling_bash_base_damage"                             "BASE DAMAGE:"
+		"DOTA_Tooltip_ability_imba_roshling_bash_stacking_damage"                         "STACKING DAMAGE:"
+		"DOTA_Tooltip_ability_imba_roshling_bash_armor_reduction"                         "ARMOR REDUCTION:"
+		"DOTA_Tooltip_ability_imba_roshling_bash_bash_duration"                           "BASH DURATION:"
+
+		"DOTA_Tooltip_ability_imba_roshling_aura"                                         "Imba Roshling Aura"
+		"DOTA_Tooltip_ability_imba_roshling_aura_Description"                             ""
+		"DOTA_Tooltip_ability_imba_roshling_aura_dmg_bonus"                               "DMG BONUS:"
+		"DOTA_Tooltip_ability_imba_roshling_aura_armor_bonus"                             "ARMOR BONUS:"
+		"DOTA_Tooltip_ability_imba_roshling_aura_regen_bonus"                             "REGEN BONUS:"
+		"DOTA_Tooltip_ability_imba_roshling_aura_radius"                                  "RADIUS:"
+
+		"DOTA_Tooltip_ability_imba_roshling_immortal_strength"                            "Imba Roshling Immortal Strength"
+		"DOTA_Tooltip_ability_imba_roshling_immortal_strength_Description"                ""
+		"DOTA_Tooltip_ability_imba_roshling_immortal_strength_regen_per_minute"           "REGEN PER MINUTE:"
+		"DOTA_Tooltip_ability_imba_roshling_immortal_strength_damage_per_minute"          "DAMAGE PER MINUTE:"
+		"DOTA_Tooltip_ability_imba_roshling_immortal_strength_armor_per_minute"           "ARMOR PER MINUTE:"
+		"DOTA_Tooltip_ability_imba_roshling_immortal_strength_as_bonus"                   "AS BONUS:"
+
+		"DOTA_Tooltip_ability_imba_roshan_rage"                                           "Imba Roshan Rage"
+		"DOTA_Tooltip_ability_imba_roshan_rage_Description"                               ""
+		"DOTA_Tooltip_ability_imba_roshan_rage_hp_threshold"                              "HP THRESHOLD:"
+		"DOTA_Tooltip_ability_imba_roshan_rage_as_bonus"                                  "AS BONUS:"
+		"DOTA_Tooltip_ability_imba_roshan_rage_armor_bonus"                               "ARMOR BONUS:"
+
+		"DOTA_Tooltip_ability_imba_roshan_fury"                                           "Imba Roshan Fury"
+		"DOTA_Tooltip_ability_imba_roshan_fury_Description"                               ""
+		"DOTA_Tooltip_ability_imba_roshan_fury_width"                                     "WIDTH:"
+		"DOTA_Tooltip_ability_imba_roshan_fury_length"                                    "LENGTH:"
+		"DOTA_Tooltip_ability_imba_roshan_fury_speed"                                     "SPEED:"
+		"DOTA_Tooltip_ability_imba_roshan_fury_base_damage"                               "BASE DAMAGE:"
+		"DOTA_Tooltip_ability_imba_roshan_fury_dmg_per_minute"                            "DMG PER MINUTE:"
+		"DOTA_Tooltip_ability_imba_roshan_fury_debuff_duration"                           "DEBUFF DURATION:"
+
+		"DOTA_Tooltip_ability_imba_roshan_immortal_strength"                              "Imba Roshan Immortal Strength"
+		"DOTA_Tooltip_ability_imba_roshan_immortal_strength_Description"                  ""
+		"DOTA_Tooltip_ability_imba_roshan_immortal_strength_base_hp_regen"                "BASE HP REGEN:"
+		"DOTA_Tooltip_ability_imba_roshan_immortal_strength_regen_per_minute"             "REGEN PER MINUTE:"
+		"DOTA_Tooltip_ability_imba_roshan_immortal_strength_damage_per_minute"            "DAMAGE PER MINUTE:"
+		"DOTA_Tooltip_ability_imba_roshan_immortal_strength_armor_per_minute"             "ARMOR PER MINUTE:"
+		"DOTA_Tooltip_ability_imba_roshan_immortal_strength_as_bonus"                     "AS BONUS:"
+		"DOTA_Tooltip_ability_imba_roshan_immortal_strength_purge_interval"               "PURGE INTERVAL:"
+
+		"DOTA_Tooltip_ability_imba_roshan_ai"                                             "Imba Roshan Ai"
+		"DOTA_Tooltip_ability_imba_roshan_ai_Description"                                 ""
+		"DOTA_Tooltip_ability_imba_roshan_ai_slam_radius"                                 "SLAM RADIUS:"
+		"DOTA_Tooltip_ability_imba_roshan_ai_slam_targets"                                "SLAM TARGETS:"
+		"DOTA_Tooltip_ability_imba_roshan_ai_roshling_pct"                                "ROSHLING PCT:"
+		"DOTA_Tooltip_ability_imba_roshan_ai_fury_pct"                                    "FURY PCT:"
+		"DOTA_Tooltip_ability_imba_roshan_ai_leash_radius"                                "LEASH RADIUS:"
+		"DOTA_Tooltip_ability_imba_roshan_ai_leash_margin"                                "LEASH MARGIN:"
+		"DOTA_Tooltip_ability_imba_roshan_ai_leash_time"                                  "LEASH TIME:"
+		"DOTA_Tooltip_ability_imba_roshan_ai_think_interval"                              "THINK INTERVAL:"
+
+		"DOTA_Tooltip_ability_imba_tower_upgrade"                                         "Imba Tower Upgrade"
+		"DOTA_Tooltip_ability_imba_tower_upgrade_Description"                             ""
+
+		"DOTA_Tooltip_ability_imba_tower_laser"                                           "Imba Tower Laser"
+		"DOTA_Tooltip_ability_imba_tower_laser_Description"                               ""
+		"DOTA_Tooltip_ability_imba_tower_laser_damage_reduction"                          "DAMAGE REDUCTION:"
+		"DOTA_Tooltip_ability_imba_tower_laser_laser_damage"                              "LASER DAMAGE:"
+		"DOTA_Tooltip_ability_imba_tower_laser_blind_chance"                              "BLIND CHANCE:"
+		"DOTA_Tooltip_ability_imba_tower_laser_blind_aoe"                                 "BLIND AOE:"
+		"DOTA_Tooltip_ability_imba_tower_laser_blind_duration"                            "BLIND DURATION:"
+		"DOTA_Tooltip_ability_imba_tower_laser_upgrade_cost"                              "UPGRADE COST:"
+
+		"DOTA_Tooltip_ability_imba_tower_multishot"                                       "Imba Tower Multishot"
+		"DOTA_Tooltip_ability_imba_tower_multishot_Description"                           ""
+		"DOTA_Tooltip_ability_imba_tower_multishot_damage_reduction"                      "DAMAGE REDUCTION:"
+		"DOTA_Tooltip_ability_imba_tower_multishot_bonus_range"                           "BONUS RANGE:"
+		"DOTA_Tooltip_ability_imba_tower_multishot_upgrade_cost"                          "UPGRADE COST:"
+
+		"DOTA_Tooltip_ability_imba_tower_hex_aura"                                        "Imba Tower Hex Aura"
+		"DOTA_Tooltip_ability_imba_tower_hex_aura_Description"                            ""
+		"DOTA_Tooltip_ability_imba_tower_hex_aura_hex_interval"                           "HEX INTERVAL:"
+		"DOTA_Tooltip_ability_imba_tower_hex_aura_hex_duration"                           "HEX DURATION:"
+		"DOTA_Tooltip_ability_imba_tower_hex_aura_hex_amount"                             "HEX AMOUNT:"
+		"DOTA_Tooltip_ability_imba_tower_hex_aura_upgrade_cost"                           "UPGRADE COST:"
+
+		"DOTA_Tooltip_ability_imba_tower_mana_burn"                                       "Imba Tower Mana Burn"
+		"DOTA_Tooltip_ability_imba_tower_mana_burn_Description"                           ""
+		"DOTA_Tooltip_ability_imba_tower_mana_burn_mana_burn"                             "MANA BURN:"
+		"DOTA_Tooltip_ability_imba_tower_mana_burn_upgrade_cost"                          "UPGRADE COST:"
+
+		"DOTA_Tooltip_ability_imba_tower_mana_flare"                                      "Imba Tower Mana Flare"
+		"DOTA_Tooltip_ability_imba_tower_mana_flare_Description"                          ""
+		"DOTA_Tooltip_ability_imba_tower_mana_flare_burn_interval"                        "BURN INTERVAL:"
+		"DOTA_Tooltip_ability_imba_tower_mana_flare_burn_pct"                             "BURN PCT:"
+		"DOTA_Tooltip_ability_imba_tower_mana_flare_upgrade_cost"                         "UPGRADE COST:"
+
+		"DOTA_Tooltip_ability_imba_tower_permabash"                                       "Imba Tower Permabash"
+		"DOTA_Tooltip_ability_imba_tower_permabash_Description"                           ""
+		"DOTA_Tooltip_ability_imba_tower_permabash_bash_chance"                           "BASH CHANCE:"
+		"DOTA_Tooltip_ability_imba_tower_permabash_bash_duration"                         "BASH DURATION:"
+		"DOTA_Tooltip_ability_imba_tower_permabash_upgrade_cost"                          "UPGRADE COST:"
+
+		"DOTA_Tooltip_ability_imba_tower_grievous_wounds"                                 "Imba Tower Grievous Wounds"
+		"DOTA_Tooltip_ability_imba_tower_grievous_wounds_Description"                     ""
+		"DOTA_Tooltip_ability_imba_tower_grievous_wounds_damage_increase"                 "DAMAGE INCREASE:"
+		"DOTA_Tooltip_ability_imba_tower_grievous_wounds_debuff_duration"                 "DEBUFF DURATION:"
+		"DOTA_Tooltip_ability_imba_tower_grievous_wounds_upgrade_cost"                    "UPGRADE COST:"
+
+		"DOTA_Tooltip_ability_imba_tower_machinegun"                                      "Imba Tower Machinegun"
+		"DOTA_Tooltip_ability_imba_tower_machinegun_Description"                          ""
+		"DOTA_Tooltip_ability_imba_tower_machinegun_damage_reduction"                     "DAMAGE REDUCTION:"
+		"DOTA_Tooltip_ability_imba_tower_machinegun_bonus_as"                             "BONUS AS:"
+		"DOTA_Tooltip_ability_imba_tower_machinegun_upgrade_cost"                         "UPGRADE COST:"
+
+		"DOTA_Tooltip_ability_imba_tower_essence_drain"                                   "Imba Tower Essence Drain"
+		"DOTA_Tooltip_ability_imba_tower_essence_drain_Description"                       ""
+		"DOTA_Tooltip_ability_imba_tower_essence_drain_drain_per_hit"                     "DRAIN PER HIT:"
+		"DOTA_Tooltip_ability_imba_tower_essence_drain_drain_duration"                    "DRAIN DURATION:"
+		"DOTA_Tooltip_ability_imba_tower_essence_drain_upgrade_cost"                      "UPGRADE COST:"
+
+		"DOTA_Tooltip_ability_imba_tower_fervor"                                          "Imba Tower Fervor"
+		"DOTA_Tooltip_ability_imba_tower_fervor_Description"                              ""
+		"DOTA_Tooltip_ability_imba_tower_fervor_stack_as"                                 "STACK AS:"
+		"DOTA_Tooltip_ability_imba_tower_fervor_max_stacks"                               "MAX STACKS:"
+		"DOTA_Tooltip_ability_imba_tower_fervor_stack_duration"                           "STACK DURATION:"
+		"DOTA_Tooltip_ability_imba_tower_fervor_upgrade_cost"                             "UPGRADE COST:"
+
+		"DOTA_Tooltip_ability_imba_tower_berserk"                                         "Imba Tower Berserk"
+		"DOTA_Tooltip_ability_imba_tower_berserk_Description"                             ""
+		"DOTA_Tooltip_ability_imba_tower_berserk_stack_as"                                "STACK AS:"
+		"DOTA_Tooltip_ability_imba_tower_berserk_stack_dmg"                               "STACK DMG:"
+		"DOTA_Tooltip_ability_imba_tower_berserk_hp_per_stack"                            "HP PER STACK:"
+		"DOTA_Tooltip_ability_imba_tower_berserk_upgrade_cost"                            "UPGRADE COST:"
+
+		"DOTA_Tooltip_ability_imba_tower_thorns"                                          "Imba Tower Thorns"
+		"DOTA_Tooltip_ability_imba_tower_thorns_Description"                              ""
+		"DOTA_Tooltip_ability_imba_tower_thorns_damage_per_hit"                           "DAMAGE PER HIT:"
+		"DOTA_Tooltip_ability_imba_tower_thorns_upgrade_cost"                             "UPGRADE COST:"
+
+		"DOTA_Tooltip_ability_imba_tower_multihit"                                        "Imba Tower Multihit"
+		"DOTA_Tooltip_ability_imba_tower_multihit_Description"                            ""
+		"DOTA_Tooltip_ability_imba_tower_multihit_bonus_attacks"                          "BONUS ATTACKS:"
+		"DOTA_Tooltip_ability_imba_tower_multihit_delay"                                  "DELAY:"
+		"DOTA_Tooltip_ability_imba_tower_multihit_upgrade_cost"                           "UPGRADE COST:"
+
+		"DOTA_Tooltip_ability_imba_tower_spell_shield"                                    "Imba Tower Spell Shield"
+		"DOTA_Tooltip_ability_imba_tower_spell_shield_Description"                        ""
+		"DOTA_Tooltip_ability_imba_tower_spell_shield_magic_resistance"                   "MAGIC RESISTANCE:"
+		"DOTA_Tooltip_ability_imba_tower_spell_shield_magic_resistance_aura"              "MAGIC RESISTANCE AURA:"
+		"DOTA_Tooltip_ability_imba_tower_spell_shield_purge_interval"                     "PURGE INTERVAL:"
+		"DOTA_Tooltip_ability_imba_tower_spell_shield_aura_radius"                        "AURA RADIUS:"
+		"DOTA_Tooltip_ability_imba_tower_spell_shield_upgrade_cost"                       "UPGRADE COST:"
+
+		"DOTA_Tooltip_ability_imba_tower_plague"                                          "Imba Tower Plague"
+		"DOTA_Tooltip_ability_imba_tower_plague_Description"                              ""
+		"DOTA_Tooltip_ability_imba_tower_plague_damage_per_second"                        "DAMAGE PER SECOND:"
+		"DOTA_Tooltip_ability_imba_tower_plague_slow"                                     "SLOW:"
+		"DOTA_Tooltip_ability_imba_tower_plague_area_of_effect"                           "AREA OF EFFECT:"
+		"DOTA_Tooltip_ability_imba_tower_plague_damage_per_tick"                          "DAMAGE PER TICK:"
+		"DOTA_Tooltip_ability_imba_tower_plague_tick_rate"                                "TICK RATE:"
+		"DOTA_Tooltip_ability_imba_tower_plague_upgrade_cost"                             "UPGRADE COST:"
+
+		"DOTA_Tooltip_ability_imba_tower_aegis"                                           "Imba Tower Aegis"
+		"DOTA_Tooltip_ability_imba_tower_aegis_Description"                               ""
+		"DOTA_Tooltip_ability_imba_tower_aegis_bonus_armor"                               "BONUS ARMOR:"
+		"DOTA_Tooltip_ability_imba_tower_aegis_bonus_health"                              "BONUS HEALTH:"
+		"DOTA_Tooltip_ability_imba_tower_aegis_upgrade_cost"                              "UPGRADE COST:"
+
+		"DOTA_Tooltip_ability_imba_tower_self_repair"                                     "Imba Tower Self Repair"
+		"DOTA_Tooltip_ability_imba_tower_self_repair_Description"                         ""
+		"DOTA_Tooltip_ability_imba_tower_self_repair_hp_regen"                            "HP REGEN:"
+		"DOTA_Tooltip_ability_imba_tower_self_repair_regen_delay"                         "REGEN DELAY:"
+		"DOTA_Tooltip_ability_imba_tower_self_repair_upgrade_cost"                        "UPGRADE COST:"
+
+		"DOTA_Tooltip_ability_imba_unlimited_level_powerup"                               "Imba Unlimited Level Powerup"
+		"DOTA_Tooltip_ability_imba_unlimited_level_powerup_Description"                   ""
+		"DOTA_Tooltip_ability_imba_unlimited_level_powerup_stat_bonus"                    "STAT BONUS:"
+		"DOTA_Tooltip_ability_imba_unlimited_level_powerup_ms_bonus"                      "MS BONUS:"
+		"DOTA_Tooltip_ability_imba_unlimited_level_powerup_as_bonus"                      "AS BONUS:"
+		"DOTA_Tooltip_ability_imba_unlimited_level_powerup_dmg_bonus"                     "DMG BONUS:"
+
+		"DOTA_Tooltip_ability_imba_abaddon_borrowed_time_hp_threshold"                    "HP THRESHOLD:"
+		"DOTA_Tooltip_ability_imba_abaddon_borrowed_time_redirect"                        "REDIRECT:"
+
+		"DOTA_Tooltip_ability_imba_abaddon_death_coil_projectile_speed"                   "PROJECTILE SPEED:"
+		"DOTA_Tooltip_ability_imba_abaddon_death_coil_self_damage"                        "SELF DAMAGE:"
+		"DOTA_Tooltip_ability_imba_abaddon_death_coil_heal_amount"                        "HEAL AMOUNT:"
+
+		"DOTA_Tooltip_ability_imba_abaddon_frostmourne_debuff_duration"                   "DEBUFF DURATION:"
+		"DOTA_Tooltip_ability_imba_abaddon_frostmourne_buff_duration"                     "BUFF DURATION:"
+		"DOTA_Tooltip_ability_imba_abaddon_frostmourne_slow_pct"                          "SLOW PCT:"
+		"DOTA_Tooltip_ability_imba_abaddon_frostmourne_attack_slow_tooltip"               "ATTACK SLOW TOOLTIP:"
+
+		"DOTA_Tooltip_ability_imba_antimage_mana_break_damage_per_burn"                   "DAMAGE PER BURN:"
+		"DOTA_Tooltip_ability_imba_antimage_mana_break_illusion_factor"                   "ILLUSION FACTOR:"
+
+		"DOTA_Tooltip_ability_imba_antimage_spell_shield_active_resistance"               "ACTIVE RESISTANCE:"
+		"DOTA_Tooltip_ability_imba_antimage_spell_shield_scale_up"                        "SCALE UP:"
+
+		"DOTA_Tooltip_ability_imba_antimage_mana_void_mana_void_damage_per_mana"          "MANA VOID DAMAGE PER MANA:"
+		"DOTA_Tooltip_ability_imba_antimage_mana_void_mana_void_ministun"                 "MANA VOID MINISTUN:"
+		"DOTA_Tooltip_ability_imba_antimage_mana_void_mana_void_aoe_radius"               "MANA VOID AOE RADIUS:"
+		"DOTA_Tooltip_ability_imba_antimage_mana_void_mana_void_mana_burn_pct"            "MANA VOID MANA BURN PCT:"
+		"DOTA_Tooltip_ability_imba_antimage_mana_void_mana_void_mana_burn_pct_scepter"    "MANA VOID MANA BURN PCT SCEPTER:"
+		"DOTA_Tooltip_ability_imba_antimage_mana_void_max_mana_burn"                      "MAX MANA BURN:"
+		"DOTA_Tooltip_ability_imba_antimage_mana_void_max_mana_burn_scepter"              "MAX MANA BURN SCEPTER:"
+
+		"DOTA_Tooltip_ability_imba_antimage_blink_mana_void_range"                        "MANA VOID RANGE:"
+		"DOTA_Tooltip_ability_imba_antimage_blink_mana_void_duration"                     "MANA VOID DURATION:"
+
+		"DOTA_Tooltip_ability_imba_axe_berserkers_call_radius"                            "RADIUS:"
+
+		"DOTA_Tooltip_ability_imba_axe_battle_hunger_speed_bonus"                         "SPEED BONUS:"
+
+		"DOTA_Tooltip_ability_imba_axe_culling_blade_speed_duration"                      "SPEED DURATION:"
+		"DOTA_Tooltip_ability_imba_axe_culling_blade_speed_aoe"                           "SPEED AOE:"
+		"DOTA_Tooltip_ability_imba_axe_culling_blade_cooldown_scepter"                    "COOLDOWN SCEPTER:"
+		"DOTA_Tooltip_ability_imba_axe_culling_blade_speed_duration_scepter"              "SPEED DURATION SCEPTER:"
+
+		"DOTA_Tooltip_ability_imba_bane_enfeeble_think_interval"                          "THINK INTERVAL:"
+
+		"DOTA_Tooltip_ability_imba_bane_nightmare_nightmare_dot_interval"                 "NIGHTMARE DOT INTERVAL:"
+		"DOTA_Tooltip_ability_imba_bane_nightmare_nightmare_invuln_time"                  "NIGHTMARE INVULN TIME:"
+		"DOTA_Tooltip_ability_imba_bane_nightmare_animation_rate"                         "ANIMATION RATE:"
+		"DOTA_Tooltip_ability_imba_bane_nightmare_aura_radius"                            "AURA RADIUS:"
+
+		"DOTA_Tooltip_ability_imba_bane_fiends_grip_fiends_grip_tick_interval"            "FIENDS GRIP TICK INTERVAL:"
+		"DOTA_Tooltip_ability_imba_bane_fiends_grip_fiends_grip_mana_drain"               "FIENDS GRIP MANA DRAIN:"
+		"DOTA_Tooltip_ability_imba_bane_fiends_grip_fiends_grip_damage"                   "FIENDS GRIP DAMAGE:"
+		"DOTA_Tooltip_ability_imba_bane_fiends_grip_fiends_grip_mana_drain_scepter"       "FIENDS GRIP MANA DRAIN SCEPTER:"
+		"DOTA_Tooltip_ability_imba_bane_fiends_grip_fiends_grip_damage_scepter"           "FIENDS GRIP DAMAGE SCEPTER:"
+		"DOTA_Tooltip_ability_imba_bane_fiends_grip_fiends_grip_scepter_radius"           "FIENDS GRIP SCEPTER RADIUS:"
+		"DOTA_Tooltip_ability_imba_bane_fiends_grip_fiends_grip_scepter_vision_cone"      "FIENDS GRIP SCEPTER VISION CONE:"
+
+		"DOTA_Tooltip_ability_imba_bounty_hunter_shuriken_toss_speed"                     "SPEED:"
+		"DOTA_Tooltip_ability_imba_bounty_hunter_shuriken_toss_bounce_radius"             "BOUNCE RADIUS:"
+		"DOTA_Tooltip_ability_imba_bounty_hunter_shuriken_toss_mini_stun"                 "MINI STUN:"
+		"DOTA_Tooltip_ability_imba_bounty_hunter_shuriken_toss_chain_range"               "CHAIN RANGE:"
+
+		"DOTA_Tooltip_ability_imba_bounty_hunter_track_bonus_move_speed_pct"              "BONUS MOVE SPEED PCT:"
+		"DOTA_Tooltip_ability_imba_bounty_hunter_track_bonus_gold_radius"                 "BONUS GOLD RADIUS:"
+		"DOTA_Tooltip_ability_imba_bounty_hunter_track_cast_range_tooltip"                "CAST RANGE TOOLTIP:"
+
+		"DOTA_Tooltip_ability_imba_centaur_return_block_str_percentage"                   "BLOCK STR PERCENTAGE:"
+
+		"DOTA_Tooltip_ability_imba_centaur_stampede_radius"                               "RADIUS:"
+		"DOTA_Tooltip_ability_imba_centaur_stampede_tree_radius"                          "TREE RADIUS:"
+
+		"DOTA_Tooltip_ability_imba_crystal_maiden_crystal_nova_radius"                    "RADIUS:"
+		"DOTA_Tooltip_ability_imba_crystal_maiden_crystal_nova_damage_interval"           "DAMAGE INTERVAL:"
+		"DOTA_Tooltip_ability_imba_crystal_maiden_crystal_nova_damage_per_tick"           "DAMAGE PER TICK:"
+		"DOTA_Tooltip_ability_imba_crystal_maiden_crystal_nova_movespeed_aura_slow"       "MOVESPEED AURA SLOW:"
+		"DOTA_Tooltip_ability_imba_crystal_maiden_crystal_nova_vision_radius"             "VISION RADIUS:"
+
+		"DOTA_Tooltip_ability_imba_crystal_maiden_frostbite_creep_damage_tooltip"         "CREEP DAMAGE TOOLTIP:"
+		"DOTA_Tooltip_ability_imba_crystal_maiden_frostbite_damage"                       "DAMAGE:"
+		"DOTA_Tooltip_ability_imba_crystal_maiden_frostbite_stun_duration"                "STUN DURATION:"
+		"DOTA_Tooltip_ability_imba_crystal_maiden_frostbite_damage_interval"              "DAMAGE INTERVAL:"
+
+		"DOTA_Tooltip_ability_imba_crystal_maiden_brilliance_aura_global_range"           "GLOBAL RANGE:"
+
+		"DOTA_Tooltip_ability_imba_crystal_maiden_freezing_field_explosion_radius"        "EXPLOSION RADIUS:"
+		"DOTA_Tooltip_ability_imba_crystal_maiden_freezing_field_explosion_interval"      "EXPLOSION INTERVAL:"
+		"DOTA_Tooltip_ability_imba_crystal_maiden_freezing_field_slow_duration"           "SLOW DURATION:"
+		"DOTA_Tooltip_ability_imba_crystal_maiden_freezing_field_explosion_min_dist"      "EXPLOSION MIN DIST:"
+		"DOTA_Tooltip_ability_imba_crystal_maiden_freezing_field_explosion_max_dist"      "EXPLOSION MAX DIST:"
+		"DOTA_Tooltip_ability_imba_crystal_maiden_freezing_field_stun_duration"           "STUN DURATION:"
+
+		"DOTA_Tooltip_ability_imba_crystal_maiden_freezing_field_scepter_explosion_radius"		"EXPLOSION RADIUS:"
+		"DOTA_Tooltip_ability_imba_crystal_maiden_freezing_field_scepter_explosion_interval"		"EXPLOSION INTERVAL:"
+		"DOTA_Tooltip_ability_imba_crystal_maiden_freezing_field_scepter_slow_duration"   "SLOW DURATION:"
+		"DOTA_Tooltip_ability_imba_crystal_maiden_freezing_field_scepter_explosion_min_dist"		"EXPLOSION MIN DIST:"
+		"DOTA_Tooltip_ability_imba_crystal_maiden_freezing_field_scepter_explosion_max_dist"		"EXPLOSION MAX DIST:"
+		"DOTA_Tooltip_ability_imba_crystal_maiden_freezing_field_scepter_stun_duration"   "STUN DURATION:"
+
+		"DOTA_Tooltip_ability_imba_dazzle_poison_touch_projectile_speed"                  "PROJECTILE SPEED:"
+		"DOTA_Tooltip_ability_imba_dazzle_poison_touch_tick_interval"                     "TICK INTERVAL:"
+		"DOTA_Tooltip_ability_imba_dazzle_poison_touch_stacks_to_stun"                    "STACKS TO STUN:"
+
+		"DOTA_Tooltip_ability_imba_dazzle_shallow_grave_min_health"                       "MIN HEALTH:"
+		"DOTA_Tooltip_ability_imba_dazzle_shallow_grave_passive_cooldown_scepter"         "PASSIVE COOLDOWN SCEPTER:"
+		"DOTA_Tooltip_ability_imba_dazzle_shallow_grave_radius"                           "RADIUS:"
+
+		"DOTA_Tooltip_ability_imba_dazzle_shadow_wave_max_targets"                        "MAX TARGETS:"
+
+		"DOTA_Tooltip_ability_imba_dazzle_weave_vision"                                   "VISION:"
+		"DOTA_Tooltip_ability_imba_dazzle_weave_negative_armor_per_second"                "NEGATIVE ARMOR PER SECOND:"
+		"DOTA_Tooltip_ability_imba_dazzle_weave_negative_armor_per_second_scepter"        "NEGATIVE ARMOR PER SECOND SCEPTER:"
+		"DOTA_Tooltip_ability_imba_dazzle_weave_tick_interval"                            "TICK INTERVAL:"
+		"DOTA_Tooltip_ability_imba_dazzle_weave_vision_duration"                          "VISION DURATION:"
+		"DOTA_Tooltip_ability_imba_dazzle_weave_negative_armor"                           "NEGATIVE ARMOR:"
+
+		"DOTA_Tooltip_ability_imba_drow_ranger_frost_arrows_frost_arrows_creep_duration"		"FROST ARROWS CREEP DURATION:"
+
+		"DOTA_Tooltip_ability_imba_drow_ranger_frost_arrows_mark1_frost_arrows_creep_duration"		"FROST ARROWS CREEP DURATION:"
+
+		"DOTA_Tooltip_ability_imba_drow_ranger_frost_arrows_mark2_frost_arrows_creep_duration"		"FROST ARROWS CREEP DURATION:"
+
+		"DOTA_Tooltip_ability_imba_drow_ranger_frost_arrows_mark3_frost_arrows_creep_duration"		"FROST ARROWS CREEP DURATION:"
+
+		"DOTA_Tooltip_ability_imba_drow_ranger_gust_wave_speed"                           "WAVE SPEED:"
+		"DOTA_Tooltip_ability_imba_drow_ranger_gust_wave_range"                           "WAVE RANGE:"
+		"DOTA_Tooltip_ability_imba_drow_ranger_gust_wave_width"                           "WAVE WIDTH:"
+		"DOTA_Tooltip_ability_imba_drow_ranger_gust_knockback_duration"                   "KNOCKBACK DURATION:"
+		"DOTA_Tooltip_ability_imba_drow_ranger_gust_knockback_height"                     "KNOCKBACK HEIGHT:"
+
+		"DOTA_Tooltip_ability_imba_drow_ranger_trueshot_global_radius"                    "GLOBAL RADIUS:"
+
+		"DOTA_Tooltip_ability_imba_drow_ranger_marksmanship_radius"                       "RADIUS:"
+		"DOTA_Tooltip_ability_imba_drow_ranger_marksmanship_think_interval"               "THINK INTERVAL:"
+		"DOTA_Tooltip_ability_imba_drow_ranger_marksmanship_tree_radius_scepter"          "TREE RADIUS SCEPTER:"
+
+		"DOTA_Tooltip_ability_imba_jakiro_fire_breath_path_radius"                        "PATH RADIUS:"
+		"DOTA_Tooltip_ability_imba_jakiro_fire_breath_spill_radius"                       "SPILL RADIUS:"
+		"DOTA_Tooltip_ability_imba_jakiro_fire_breath_damage_interval"                    "DAMAGE INTERVAL:"
+
+		"DOTA_Tooltip_ability_imba_jakiro_ice_breath_path_radius"                         "PATH RADIUS:"
+		"DOTA_Tooltip_ability_imba_jakiro_ice_breath_spill_radius"                        "SPILL RADIUS:"
+		"DOTA_Tooltip_ability_imba_jakiro_ice_breath_damage_interval"                     "DAMAGE INTERVAL:"
+
+		"DOTA_Tooltip_ability_imba_jakiro_liquid_fire_damage_interval"                    "DAMAGE INTERVAL:"
+		"DOTA_Tooltip_ability_imba_jakiro_liquid_fire_speed"                              "SPEED:"
+
+		"DOTA_Tooltip_ability_imba_jakiro_macropyre_damage"                               "DAMAGE:"
+		"DOTA_Tooltip_ability_imba_jakiro_macropyre_damage_scepter"                       "DAMAGE SCEPTER:"
+		"DOTA_Tooltip_ability_imba_jakiro_macropyre_path_radius"                          "PATH RADIUS:"
+		"DOTA_Tooltip_ability_imba_jakiro_macropyre_burn_interval"                        "BURN INTERVAL:"
+		"DOTA_Tooltip_ability_imba_jakiro_macropyre_trail_angle"                          "TRAIL ANGLE:"
+		"DOTA_Tooltip_ability_imba_jakiro_macropyre_trail_amount"                         "TRAIL AMOUNT:"
+		"DOTA_Tooltip_ability_imba_jakiro_macropyre_stickyness"                           "STICKYNESS:"
+
+		"DOTA_Tooltip_ability_imba_lich_frost_nova_slow_attack_speed"                     "SLOW ATTACK SPEED:"
+		"DOTA_Tooltip_ability_imba_lich_frost_nova_aura_stickyness"                       "AURA STICKYNESS:"
+		"DOTA_Tooltip_ability_imba_lich_frost_nova_base_slow"                             "BASE SLOW:"
+
+		"DOTA_Tooltip_ability_imba_lich_frost_armor_slow_duration"                        "SLOW DURATION:"
+
+		"DOTA_Tooltip_ability_imba_lich_dark_ritual_xp_radius"                            "XP RADIUS:"
+
+		"DOTA_Tooltip_ability_imba_lich_chain_frost_slow_attack_speed"                    "SLOW ATTACK SPEED:"
+		"DOTA_Tooltip_ability_imba_lich_chain_frost_vision_radius"                        "VISION RADIUS:"
+		"DOTA_Tooltip_ability_imba_lich_chain_frost_mini_stun"                            "MINI STUN:"
+
+		"DOTA_Tooltip_ability_imba_lina_dragon_slave_dragon_slave_speed"                  "DRAGON SLAVE SPEED:"
+		"DOTA_Tooltip_ability_imba_lina_dragon_slave_dragon_slave_width_initial"          "DRAGON SLAVE WIDTH INITIAL:"
+		"DOTA_Tooltip_ability_imba_lina_dragon_slave_dragon_slave_width_end"              "DRAGON SLAVE WIDTH END:"
+		"DOTA_Tooltip_ability_imba_lina_dragon_slave_dragon_slave_distance"               "DRAGON SLAVE DISTANCE:"
+
+		"DOTA_Tooltip_ability_imba_lina_dragon_slave_fiery_dragon_slave_speed"            "DRAGON SLAVE SPEED:"
+		"DOTA_Tooltip_ability_imba_lina_dragon_slave_fiery_dragon_slave_width_initial"    "DRAGON SLAVE WIDTH INITIAL:"
+		"DOTA_Tooltip_ability_imba_lina_dragon_slave_fiery_dragon_slave_width_end"        "DRAGON SLAVE WIDTH END:"
+		"DOTA_Tooltip_ability_imba_lina_dragon_slave_fiery_dragon_slave_distance"         "DRAGON SLAVE DISTANCE:"
+
+		"DOTA_Tooltip_ability_imba_lina_dragon_slave_aux"                                 "Imba Lina Dragon Slave Aux"
+		"DOTA_Tooltip_ability_imba_lina_dragon_slave_aux_Description"                     ""
+		"DOTA_Tooltip_ability_imba_lina_dragon_slave_aux_dragon_slave_speed"              "DRAGON SLAVE SPEED:"
+		"DOTA_Tooltip_ability_imba_lina_dragon_slave_aux_dragon_slave_width_initial"      "DRAGON SLAVE WIDTH INITIAL:"
+		"DOTA_Tooltip_ability_imba_lina_dragon_slave_aux_dragon_slave_width_end"          "DRAGON SLAVE WIDTH END:"
+		"DOTA_Tooltip_ability_imba_lina_dragon_slave_aux_dragon_slave_distance"           "DRAGON SLAVE DISTANCE:"
+
+		"DOTA_Tooltip_ability_imba_lina_dragon_slave_aux_fiery"                           "Imba Lina Dragon Slave Aux Fiery"
+		"DOTA_Tooltip_ability_imba_lina_dragon_slave_aux_fiery_Description"               ""
+		"DOTA_Tooltip_ability_imba_lina_dragon_slave_aux_fiery_dragon_slave_speed"        "DRAGON SLAVE SPEED:"
+		"DOTA_Tooltip_ability_imba_lina_dragon_slave_aux_fiery_dragon_slave_width_initial"		"DRAGON SLAVE WIDTH INITIAL:"
+		"DOTA_Tooltip_ability_imba_lina_dragon_slave_aux_fiery_dragon_slave_width_end"    "DRAGON SLAVE WIDTH END:"
+		"DOTA_Tooltip_ability_imba_lina_dragon_slave_aux_fiery_dragon_slave_distance"     "DRAGON SLAVE DISTANCE:"
+
+		"DOTA_Tooltip_ability_imba_lina_light_strike_array_light_strike_array_damage"     "LIGHT STRIKE ARRAY DAMAGE:"
+		"DOTA_Tooltip_ability_imba_lina_light_strike_array_secondary_delay"               "SECONDARY DELAY:"
+
+		"DOTA_Tooltip_ability_imba_lina_light_strike_array_fiery_light_strike_array_damage"		"LIGHT STRIKE ARRAY DAMAGE:"
+		"DOTA_Tooltip_ability_imba_lina_light_strike_array_fiery_secondary_delay"         "SECONDARY DELAY:"
+
+		"DOTA_Tooltip_ability_imba_lina_fiery_soul_max_attack_speed_bonus"                "MAX ATTACK SPEED BONUS:"
+		"DOTA_Tooltip_ability_imba_lina_fiery_soul_max_move_speed_bonus"                  "MAX MOVE SPEED BONUS:"
+
+		"DOTA_Tooltip_ability_imba_lina_blazing_soul_fiery_soul_attack_speed_bonus"       "FIERY SOUL ATTACK SPEED BONUS:"
+		"DOTA_Tooltip_ability_imba_lina_blazing_soul_fiery_soul_move_speed_bonus"         "FIERY SOUL MOVE SPEED BONUS:"
+		"DOTA_Tooltip_ability_imba_lina_blazing_soul_fiery_soul_max_stacks"               "FIERY SOUL MAX STACKS:"
+
+		"DOTA_Tooltip_ability_imba_lina_laguna_blade_projectile_speed"                    "PROJECTILE SPEED:"
+		"DOTA_Tooltip_ability_imba_lina_laguna_blade_start_width"                         "START WIDTH:"
+		"DOTA_Tooltip_ability_imba_lina_laguna_blade_end_width"                           "END WIDTH:"
+
+		"DOTA_Tooltip_ability_imba_lina_laguna_blade_fiery_projectile_speed"              "PROJECTILE SPEED:"
+		"DOTA_Tooltip_ability_imba_lina_laguna_blade_fiery_start_width"                   "START WIDTH:"
+		"DOTA_Tooltip_ability_imba_lina_laguna_blade_fiery_end_width"                     "END WIDTH:"
+
+		"DOTA_Tooltip_ability_imba_mirana_starfall_hit_delay"                             "HIT DELAY:"
+		"DOTA_Tooltip_ability_imba_mirana_starfall_secondary_damage"                      "SECONDARY DAMAGE:"
+		"DOTA_Tooltip_ability_imba_mirana_starfall_secondary_delay"                       "SECONDARY DELAY:"
+
+		"DOTA_Tooltip_ability_imba_mirana_arrow_arrow_speed"                              "ARROW SPEED:"
+		"DOTA_Tooltip_ability_imba_mirana_arrow_arrow_width"                              "ARROW WIDTH:"
+		"DOTA_Tooltip_ability_imba_mirana_arrow_arrow_max_stunrange"                      "ARROW MAX STUNRANGE:"
+		"DOTA_Tooltip_ability_imba_mirana_arrow_arrow_min_stun"                           "ARROW MIN STUN:"
+		"DOTA_Tooltip_ability_imba_mirana_arrow_arrow_vision"                             "ARROW VISION:"
+		"DOTA_Tooltip_ability_imba_mirana_arrow_vision_duration"                          "VISION DURATION:"
+
+		"DOTA_Tooltip_ability_imba_mirana_leap_leap_speed"                                "LEAP SPEED:"
+		"DOTA_Tooltip_ability_imba_mirana_leap_leap_acceleration"                         "LEAP ACCELERATION:"
+		"DOTA_Tooltip_ability_imba_mirana_leap_leap_radius"                               "LEAP RADIUS:"
+		"DOTA_Tooltip_ability_imba_mirana_leap_leap_duration"                             "LEAP DURATION:"
+		"DOTA_Tooltip_ability_imba_mirana_leap_leap_time"                                 "LEAP TIME:"
+
+		"DOTA_Tooltip_ability_imba_mirana_invis_global_radius"                            "GLOBAL RADIUS:"
+
+		"DOTA_Tooltip_ability_imba_necrolyte_death_pulse_area_of_effect"                  "AREA OF EFFECT:"
+		"DOTA_Tooltip_ability_imba_necrolyte_death_pulse_projectile_speed"                "PROJECTILE SPEED:"
+		"DOTA_Tooltip_ability_imba_necrolyte_death_pulse_cast_cooldown"                   "CAST COOLDOWN:"
+		"DOTA_Tooltip_ability_imba_necrolyte_death_pulse_cast_mana_cost"                  "CAST MANA COST:"
+
+		"DOTA_Tooltip_ability_imba_necrolyte_heartstopper_aura_aura_radius"               "AURA RADIUS:"
+		"DOTA_Tooltip_ability_imba_necrolyte_heartstopper_aura_stack_damage"              "STACK DAMAGE:"
+		"DOTA_Tooltip_ability_imba_necrolyte_heartstopper_aura_max_creep_stacks"          "MAX CREEP STACKS:"
+
+		"DOTA_Tooltip_ability_imba_necrolyte_sadist_hero_multiplier"                      "HERO MULTIPLIER:"
+		"DOTA_Tooltip_ability_imba_necrolyte_sadist_death_radius"                         "DEATH RADIUS:"
+
+		"DOTA_Tooltip_ability_imba_necrolyte_reapers_scythe_animation_delay"              "ANIMATION DELAY:"
+		"DOTA_Tooltip_ability_imba_necrolyte_reapers_scythe_respawn_base"                 "RESPAWN BASE:"
+
+		"DOTA_Tooltip_ability_imba_night_stalker_void_mini_stun"                          "MINI STUN:"
+
+		"DOTA_Tooltip_ability_imba_night_stalker_darkness_vision_radius"                  "VISION RADIUS:"
+		"DOTA_Tooltip_ability_imba_night_stalker_darkness_vision_radius_scepter"          "VISION RADIUS SCEPTER:"
+		"DOTA_Tooltip_ability_imba_night_stalker_darkness_radius"                         "RADIUS:"
+
+		"DOTA_Tooltip_ability_imba_nyx_assassin_impale_speed"                             "SPEED:"
+		"DOTA_Tooltip_ability_imba_nyx_assassin_impale_air_time"                          "AIR TIME:"
+		"DOTA_Tooltip_ability_imba_nyx_assassin_impale_damage_duration"                   "DAMAGE DURATION:"
+		"DOTA_Tooltip_ability_imba_nyx_assassin_impale_damage"                            "DAMAGE:"
+		"DOTA_Tooltip_ability_imba_nyx_assassin_impale_global_radius"                     "GLOBAL RADIUS:"
+
+		"DOTA_Tooltip_ability_imba_nyx_assassin_spiked_carapace_burrow_stun_range"        "BURROW STUN RANGE:"
+
+		"DOTA_Tooltip_ability_imba_obsidian_destroyer_arcane_orb_int_steal_pct"           "INT STEAL PCT:"
+
+		"DOTA_Tooltip_ability_imba_obsidian_destroyer_astral_imprisonment_int_steal_pct"		"INT STEAL PCT:"
+		"DOTA_Tooltip_ability_imba_obsidian_destroyer_astral_imprisonment_int_gain_duration"		"INT GAIN DURATION:"
+
+		"DOTA_Tooltip_ability_imba_obsidian_destroyer_essence_aura_int_duration"          "INT DURATION:"
+		"DOTA_Tooltip_ability_imba_obsidian_destroyer_essence_aura_max_int_pct"           "MAX INT PCT:"
+
+		"DOTA_Tooltip_ability_imba_obsidian_destroyer_sanity_eclipse_cast_range"          "CAST RANGE:"
+
+		"DOTA_Tooltip_ability_imba_omniknight_degen_aura_stack_rate"                      "STACK RATE:"
+		"DOTA_Tooltip_ability_imba_omniknight_degen_aura_sticky_time"                     "STICKY TIME:"
+
+		"DOTA_Tooltip_ability_imba_omniknight_guardian_angel_radius"                      "RADIUS:"
+
+		"DOTA_Tooltip_ability_imba_omniknight_guardian_angel_scepter_radius"              "RADIUS:"
+
+		"DOTA_Tooltip_ability_imba_phantom_assassin_stifling_dagger_dagger_speed"         "DAGGER SPEED:"
+		"DOTA_Tooltip_ability_imba_phantom_assassin_stifling_dagger_hero_dmg_pct"         "HERO DMG PCT:"
+		"DOTA_Tooltip_ability_imba_phantom_assassin_stifling_dagger_radius"               "RADIUS:"
+
+		"DOTA_Tooltip_ability_imba_phantom_assassin_phantom_strike_projectile_speed"      "PROJECTILE SPEED:"
+		"DOTA_Tooltip_ability_imba_phantom_assassin_phantom_strike_projectile_width"      "PROJECTILE WIDTH:"
+
+		"DOTA_Tooltip_ability_imba_phantom_assassin_blur_transparency_fade"               "TRANSPARENCY FADE:"
+		"DOTA_Tooltip_ability_imba_phantom_assassin_blur_duration"                        "DURATION:"
+
+		"DOTA_Tooltip_ability_imba_pudge_meat_hook_hook_width"                            "HOOK WIDTH:"
+		"DOTA_Tooltip_ability_imba_pudge_meat_hook_vision_radius"                         "VISION RADIUS:"
+		"DOTA_Tooltip_ability_imba_pudge_meat_hook_vision_duration"                       "VISION DURATION:"
+
+		"DOTA_Tooltip_ability_imba_pudge_rot_rot_tick"                                    "ROT TICK:"
+		"DOTA_Tooltip_ability_imba_pudge_rot_rot_stickyness"                              "ROT STICKYNESS:"
+		"DOTA_Tooltip_ability_imba_pudge_rot_max_stacks"                                  "MAX STACKS:"
+
+		"DOTA_Tooltip_ability_imba_pudge_flesh_heap_stack_scale_up"                       "STACK SCALE UP:"
+		"DOTA_Tooltip_ability_imba_pudge_flesh_heap_max_stacks"                           "MAX STACKS:"
+
+		"DOTA_Tooltip_ability_imba_pudge_dismember_strength_damage"                       "STRENGTH DAMAGE:"
+		"DOTA_Tooltip_ability_imba_pudge_dismember_max_duration"                          "MAX DURATION:"
+
+		"DOTA_Tooltip_ability_imba_queenofpain_shadow_strike_projectile_speed"            "PROJECTILE SPEED:"
+		"DOTA_Tooltip_ability_imba_queenofpain_shadow_strike_base_slow"                   "BASE SLOW:"
+		"DOTA_Tooltip_ability_imba_queenofpain_shadow_strike_stack_slow"                  "STACK SLOW:"
+
+		"DOTA_Tooltip_ability_imba_queenofpain_blink_min_blink_range"                     "MIN BLINK RANGE:"
+		"DOTA_Tooltip_ability_imba_queenofpain_blink_scream_damage"                       "SCREAM DAMAGE:"
+
+		"DOTA_Tooltip_ability_imba_queenofpain_scream_of_pain_projectile_speed"           "PROJECTILE SPEED:"
+
+		"DOTA_Tooltip_ability_imba_queenofpain_sonic_wave_speed"                          "SPEED:"
+
+		"DOTA_Tooltip_ability_imba_sniper_shrapnel_building_damage"                       "BUILDING DAMAGE:"
+		"DOTA_Tooltip_ability_imba_sniper_shrapnel_damage_delay"                          "DAMAGE DELAY:"
+		"DOTA_Tooltip_ability_imba_sniper_shrapnel_slow_duration"                         "SLOW DURATION:"
+		"DOTA_Tooltip_ability_imba_sniper_shrapnel_tick_interval"                         "TICK INTERVAL:"
+		"DOTA_Tooltip_ability_imba_sniper_shrapnel_maximum_charges"                       "MAXIMUM CHARGES:"
+		"DOTA_Tooltip_ability_imba_sniper_shrapnel_charge_replenish_time"                 "CHARGE REPLENISH TIME:"
+
+		"DOTA_Tooltip_ability_imba_sniper_headshot_near_duration"                         "NEAR DURATION:"
+		"DOTA_Tooltip_ability_imba_sniper_headshot_normal_duration"                       "NORMAL DURATION:"
+		"DOTA_Tooltip_ability_imba_sniper_headshot_far_duration"                          "FAR DURATION:"
+		"DOTA_Tooltip_ability_imba_sniper_headshot_normal_attack_slow"                    "NORMAL ATTACK SLOW:"
+		"DOTA_Tooltip_ability_imba_sniper_headshot_far_damage"                            "FAR DAMAGE:"
+		"DOTA_Tooltip_ability_imba_sniper_headshot_far_aoe"                               "FAR AOE:"
+		"DOTA_Tooltip_ability_imba_sniper_headshot_far_armor"                             "FAR ARMOR:"
+		"DOTA_Tooltip_ability_imba_sniper_headshot_far_knockback"                         "FAR KNOCKBACK:"
+		"DOTA_Tooltip_ability_imba_sniper_headshot_knockback_speed"                       "KNOCKBACK SPEED:"
+		"DOTA_Tooltip_ability_imba_sniper_headshot_far_shot_speed"                        "FAR SHOT SPEED:"
+
+		"DOTA_Tooltip_ability_imba_sniper_assassinate_projectile_travel_time"             "PROJECTILE TRAVEL TIME:"
+		"DOTA_Tooltip_ability_imba_sniper_assassinate_charge_time"                        "CHARGE TIME:"
+		"DOTA_Tooltip_ability_imba_sniper_assassinate_aoe_size"                           "AOE SIZE:"
+		"DOTA_Tooltip_ability_imba_sniper_assassinate_knockback_speed_scepter"            "KNOCKBACK SPEED SCEPTER:"
+
+		"DOTA_Tooltip_ability_imba_sven_storm_bolt_speed"                                 "SPEED:"
+		"DOTA_Tooltip_ability_imba_sven_storm_bolt_vision_radius"                         "VISION RADIUS:"
+
+		"DOTA_Tooltip_ability_imba_sven_great_cleave_stack_duration"                      "STACK DURATION:"
+
+		"DOTA_Tooltip_ability_imba_techies_land_mines_throw_chance"                       "THROW CHANCE:"
+		"DOTA_Tooltip_ability_imba_techies_land_mines_throw_speed"                        "THROW SPEED:"
+		"DOTA_Tooltip_ability_imba_techies_land_mines_bonus_damage_scepter"               "BONUS DAMAGE SCEPTER:"
+
+		"DOTA_Tooltip_ability_imba_techies_land_mine_passive"                             "Imba Techies Land Mine Passive"
+		"DOTA_Tooltip_ability_imba_techies_land_mine_passive_Description"                 ""
+		"DOTA_Tooltip_ability_imba_techies_land_mine_passive_damage"                      "DAMAGE:"
+		"DOTA_Tooltip_ability_imba_techies_land_mine_passive_small_radius"                "SMALL RADIUS:"
+		"DOTA_Tooltip_ability_imba_techies_land_mine_passive_big_radius"                  "BIG RADIUS:"
+		"DOTA_Tooltip_ability_imba_techies_land_mine_passive_think_interval"              "THINK INTERVAL:"
+		"DOTA_Tooltip_ability_imba_techies_land_mine_passive_vision_radius"               "VISION RADIUS:"
+		"DOTA_Tooltip_ability_imba_techies_land_mine_passive_vision_duration"             "VISION DURATION:"
+		"DOTA_Tooltip_ability_imba_techies_land_mine_passive_bonus_damage_scepter"        "BONUS DAMAGE SCEPTER:"
+
+		"DOTA_Tooltip_ability_imba_techies_stasis_trap_secondary_radius"                  "SECONDARY RADIUS:"
+		"DOTA_Tooltip_ability_imba_techies_stasis_trap_mana_burn_scepter"                 "MANA BURN SCEPTER:"
+		"DOTA_Tooltip_ability_imba_techies_stasis_trap_think_interval"                    "THINK INTERVAL:"
+		"DOTA_Tooltip_ability_imba_techies_stasis_trap_vision_radius"                     "VISION RADIUS:"
+		"DOTA_Tooltip_ability_imba_techies_stasis_trap_vision_duration"                   "VISION DURATION:"
+
+		"DOTA_Tooltip_ability_imba_techies_stasis_trap_passive"                           "Imba Techies Stasis Trap Passive"
+		"DOTA_Tooltip_ability_imba_techies_stasis_trap_passive_Description"               ""
+		"DOTA_Tooltip_ability_imba_techies_stasis_trap_passive_radius"                    "RADIUS:"
+		"DOTA_Tooltip_ability_imba_techies_stasis_trap_passive_activation_delay"          "ACTIVATION DELAY:"
+		"DOTA_Tooltip_ability_imba_techies_stasis_trap_passive_explosion_delay"           "EXPLOSION DELAY:"
+		"DOTA_Tooltip_ability_imba_techies_stasis_trap_passive_stun_duration"             "STUN DURATION:"
+		"DOTA_Tooltip_ability_imba_techies_stasis_trap_passive_secondary_radius"          "SECONDARY RADIUS:"
+		"DOTA_Tooltip_ability_imba_techies_stasis_trap_passive_secondary_delay"           "SECONDARY DELAY:"
+		"DOTA_Tooltip_ability_imba_techies_stasis_trap_passive_mana_burn_scepter"         "MANA BURN SCEPTER:"
+		"DOTA_Tooltip_ability_imba_techies_stasis_trap_passive_think_interval"            "THINK INTERVAL:"
+		"DOTA_Tooltip_ability_imba_techies_stasis_trap_passive_vision_radius"             "VISION RADIUS:"
+		"DOTA_Tooltip_ability_imba_techies_stasis_trap_passive_vision_duration"           "VISION DURATION:"
+
+		"DOTA_Tooltip_ability_imba_techies_remote_auto_creep_radius"                      "RADIUS:"
+
+		"DOTA_Tooltip_ability_imba_techies_remote_auto_hero_radius"                       "RADIUS:"
+
+		"DOTA_Tooltip_ability_imba_techies_minefield_sign_radius"                         "RADIUS:"
+
+		"DOTA_Tooltip_ability_imba_sandking_burrowstrike_burrow_speed"                    "BURROW SPEED:"
+		"DOTA_Tooltip_ability_imba_sandking_burrowstrike_burrow_anim_time"                "BURROW ANIM TIME:"
+		"DOTA_Tooltip_ability_imba_sandking_burrowstrike_knockback_distance"              "KNOCKBACK DISTANCE:"
+
+		"DOTA_Tooltip_ability_imba_sandking_sand_storm_invis_duration"                    "INVIS DURATION:"
+		"DOTA_Tooltip_ability_imba_sandking_sand_storm_radius_step"                       "RADIUS STEP:"
+		"DOTA_Tooltip_ability_imba_sandking_sand_storm_max_duration"                      "MAX DURATION:"
+
+		"DOTA_Tooltip_ability_imba_sandking_caustic_finale_prevent_time"                  "PREVENT TIME:"
+
+		"DOTA_Tooltip_ability_imba_sandking_epicenter_step_radius"                        "STEP RADIUS:"
+		"DOTA_Tooltip_ability_imba_sandking_epicenter_pulse_duration"                     "PULSE DURATION:"
+		"DOTA_Tooltip_ability_imba_sandking_epicenter_pull_scepter"                       "PULL SCEPTER:"
+
+		"DOTA_Tooltip_ability_imba_sandking_epicenter_scepter_step_radius"                "STEP RADIUS:"
+		"DOTA_Tooltip_ability_imba_sandking_epicenter_scepter_pulse_duration"             "PULSE DURATION:"
+		"DOTA_Tooltip_ability_imba_sandking_epicenter_scepter_pull_scepter"               "PULL SCEPTER:"
+
+		"DOTA_Tooltip_ability_imba_tinker_laser_blind_amount"                             "BLIND AMOUNT:"
+		"DOTA_Tooltip_ability_imba_tinker_laser_vision_reduction"                         "VISION REDUCTION:"
+		"DOTA_Tooltip_ability_imba_tinker_laser_stack_damage"                             "STACK DAMAGE:"
+		"DOTA_Tooltip_ability_imba_tinker_laser_stack_duration"                           "STACK DURATION:"
+		"DOTA_Tooltip_ability_imba_tinker_laser_bounce_range_scepter"                     "BOUNCE RANGE SCEPTER:"
+
+		"DOTA_Tooltip_ability_imba_tinker_heat_seeking_missile_search_range"              "SEARCH RANGE:"
+		"DOTA_Tooltip_ability_imba_tinker_heat_seeking_missile_base_count"                "BASE COUNT:"
+		"DOTA_Tooltip_ability_imba_tinker_heat_seeking_missile_stack_count"               "STACK COUNT:"
+		"DOTA_Tooltip_ability_imba_tinker_heat_seeking_missile_speed"                     "SPEED:"
+
+		"DOTA_Tooltip_ability_imba_tinker_march_of_the_machines_spawner_amount"           "SPAWNER AMOUNT:"
+		"DOTA_Tooltip_ability_imba_tinker_march_of_the_machines_spawn_radius"             "SPAWN RADIUS:"
+		"DOTA_Tooltip_ability_imba_tinker_march_of_the_machines_spawn_length"             "SPAWN LENGTH:"
+		"DOTA_Tooltip_ability_imba_tinker_march_of_the_machines_collision_radius"         "COLLISION RADIUS:"
+		"DOTA_Tooltip_ability_imba_tinker_march_of_the_machines_attacks_to_kill"          "ATTACKS TO KILL:"
+		"DOTA_Tooltip_ability_imba_tinker_march_of_the_machines_max_spawns"               "MAX SPAWNS:"
+		"DOTA_Tooltip_ability_imba_tinker_march_of_the_machines_spawn_interval"           "SPAWN INTERVAL:"
+		"DOTA_Tooltip_ability_imba_tinker_march_of_the_machines_movement_scepter"         "MOVEMENT SCEPTER:"
+
+		"DOTA_Tooltip_ability_imba_tinker_rearm_cooldown_tooltip"                         "COOLDOWN TOOLTIP:"
+		"DOTA_Tooltip_ability_imba_tinker_rearm_mana_penalty"                             "MANA PENALTY:"
+
+		"DOTA_Tooltip_ability_imba_faceless_void_chronosphere_extra_radius"               "EXTRA RADIUS:"
+		"DOTA_Tooltip_ability_imba_faceless_void_chronosphere_extra_duration"             "EXTRA DURATION:"
+		"DOTA_Tooltip_ability_imba_faceless_void_chronosphere_tick_interval"              "TICK INTERVAL:"
+		"DOTA_Tooltip_ability_imba_faceless_void_chronosphere_linger_duration"            "LINGER DURATION:"
+
+		"DOTA_Tooltip_ability_imba_faceless_void_time_walk_speed"                         "SPEED:"
+		"DOTA_Tooltip_ability_imba_faceless_void_time_walk_slow_radius"                   "SLOW RADIUS:"
+		"DOTA_Tooltip_ability_imba_faceless_void_time_walk_chrono_radius"                 "CHRONO RADIUS:"
+		"DOTA_Tooltip_ability_imba_faceless_void_time_walk_duration"                      "DURATION:"
+		"DOTA_Tooltip_ability_imba_faceless_void_time_walk_attack_speed_slow"             "ATTACK SPEED SLOW:"
+		"DOTA_Tooltip_ability_imba_faceless_void_time_walk_move_bonus"                    "MOVE BONUS:"
+		"DOTA_Tooltip_ability_imba_faceless_void_time_walk_attack_speed_bonus"            "ATTACK SPEED BONUS:"
+		"DOTA_Tooltip_ability_imba_faceless_void_time_walk_tooltip_range"                 "TOOLTIP RANGE:"
+		"DOTA_Tooltip_ability_imba_faceless_void_time_walk_chrono_linger"                 "CHRONO LINGER:"
+
+		"DOTA_Tooltip_ability_imba_faceless_void_time_lock_bash_chance"                   "BASH CHANCE:"
+		"DOTA_Tooltip_ability_imba_faceless_void_time_lock_bash_damage"                   "BASH DAMAGE:"
+		"DOTA_Tooltip_ability_imba_faceless_void_time_lock_bash_duration"                 "BASH DURATION:"
+		"DOTA_Tooltip_ability_imba_faceless_void_time_lock_bash_radius"                   "BASH RADIUS:"
+
+		"DOTA_Tooltip_ability_imba_disruptor_thunder_strike"                              "Imba Disruptor Thunder Strike"
+		"DOTA_Tooltip_ability_imba_disruptor_thunder_strike_Description"                  ""
+		"DOTA_Tooltip_ability_imba_disruptor_thunder_strike_radius"                       "RADIUS:"
+		"DOTA_Tooltip_ability_imba_disruptor_thunder_strike_strikes"                      "STRIKES:"
+		"DOTA_Tooltip_ability_imba_disruptor_thunder_strike_strike_interval"              "STRIKE INTERVAL:"
+		"DOTA_Tooltip_ability_imba_disruptor_thunder_strike_duration"                     "DURATION:"
+
+		"DOTA_Tooltip_ability_imba_disruptor_glimpse"                                     "Imba Disruptor Glimpse"
+		"DOTA_Tooltip_ability_imba_disruptor_glimpse_Description"                         ""
+		"DOTA_Tooltip_ability_imba_disruptor_glimpse_backtrack_time"                      "BACKTRACK TIME:"
+		"DOTA_Tooltip_ability_imba_disruptor_glimpse_cast_range"                          "CAST RANGE:"
+
+		"DOTA_Tooltip_ability_imba_disruptor_kinetic_field"                               "Imba Disruptor Kinetic Field"
+		"DOTA_Tooltip_ability_imba_disruptor_kinetic_field_Description"                   ""
+		"DOTA_Tooltip_ability_imba_disruptor_kinetic_field_radius"                        "RADIUS:"
+		"DOTA_Tooltip_ability_imba_disruptor_kinetic_field_formation_time"                "FORMATION TIME:"
+		"DOTA_Tooltip_ability_imba_disruptor_kinetic_field_duration"                      "DURATION:"
+		"DOTA_Tooltip_ability_imba_disruptor_kinetic_field_radius_outer_ring"             "RADIUS OUTER RING:"
+
+		"DOTA_Tooltip_ability_imba_disruptor_static_storm"                                "Imba Disruptor Static Storm"
+		"DOTA_Tooltip_ability_imba_disruptor_static_storm_Description"                    ""
+		"DOTA_Tooltip_ability_imba_disruptor_static_storm_radius"                         "RADIUS:"
+		"DOTA_Tooltip_ability_imba_disruptor_static_storm_pulses"                         "PULSES:"
+		"DOTA_Tooltip_ability_imba_disruptor_static_storm_damage_max"                     "DAMAGE MAX:"
+		"DOTA_Tooltip_ability_imba_disruptor_static_storm_duration"                       "DURATION:"
+		"DOTA_Tooltip_ability_imba_disruptor_static_storm_duration_scepter"               "DURATION SCEPTER:"
+		"DOTA_Tooltip_ability_imba_disruptor_static_storm_pulses_scepter"                 "PULSES SCEPTER:"
+
+		"DOTA_Tooltip_ability_imba_ancient_apparition_chilling_touch_duration"            "DURATION:"
+
+		"DOTA_Tooltip_ability_imba_ancient_apparition_cold_feet_damage_interval"          "DAMAGE INTERVAL:"
+		"DOTA_Tooltip_ability_imba_ancient_apparition_cold_feet_leash_interval"           "LEASH INTERVAL:"
+
+		"DOTA_Tooltip_ability_imba_ancient_apparition_ice_vortex_duration"                "DURATION:"
+
+		"DOTA_Tooltip_ability_imba_ancient_apparition_ice_blast_radius_grow"              "RADIUS GROW:"
+		"DOTA_Tooltip_ability_imba_ancient_apparition_ice_blast_path_radius"              "PATH RADIUS:"
+		"DOTA_Tooltip_ability_imba_ancient_apparition_ice_blast_dot_damage"               "DOT DAMAGE:"
+		"DOTA_Tooltip_ability_imba_ancient_apparition_ice_blast_speed"                    "SPEED:"
+		"DOTA_Tooltip_ability_imba_ancient_apparition_ice_blast_kill_pct"                 "KILL PCT:"
+		"DOTA_Tooltip_ability_imba_ancient_apparition_ice_blast_target_sight_radius"      "TARGET SIGHT RADIUS:"
+		"DOTA_Tooltip_ability_imba_ancient_apparition_ice_blast_frostbite_duration_scepter"		"FROSTBITE DURATION SCEPTER:"
+		"DOTA_Tooltip_ability_imba_ancient_apparition_ice_blast_min_time"                 "MIN TIME:"
+		"DOTA_Tooltip_ability_imba_ancient_apparition_ice_blast_base_speed"               "BASE SPEED:"
+		"DOTA_Tooltip_ability_imba_ancient_apparition_ice_blast_travel_vision"            "TRAVEL VISION:"
+		"DOTA_Tooltip_ability_imba_ancient_apparition_ice_blast_travel_vision_duration"   "TRAVEL VISION DURATION:"
+		"DOTA_Tooltip_ability_imba_ancient_apparition_ice_blast_area_vision"              "AREA VISION:"
+		"DOTA_Tooltip_ability_imba_ancient_apparition_ice_blast_area_vision_duration"     "AREA VISION DURATION:"
+		"DOTA_Tooltip_ability_imba_ancient_apparition_ice_blast_think_interval"           "THINK INTERVAL:"
+
+		"DOTA_Tooltip_ability_imba_ancient_apparition_ice_blast_release"                  "Imba Ancient Apparition Ice Blast Release"
+		"DOTA_Tooltip_ability_imba_ancient_apparition_ice_blast_release_Description"      ""
+
+		"DOTA_Tooltip_ability_imba_earthshaker_fissure"                                   "Imba Earthshaker Fissure"
+		"DOTA_Tooltip_ability_imba_earthshaker_fissure_Description"                       ""
+		"DOTA_Tooltip_ability_imba_earthshaker_fissure_fissure_range"                     "FISSURE RANGE:"
+		"DOTA_Tooltip_ability_imba_earthshaker_fissure_fissure_duration"                  "FISSURE DURATION:"
+		"DOTA_Tooltip_ability_imba_earthshaker_fissure_fissure_radius"                    "FISSURE RADIUS:"
+		"DOTA_Tooltip_ability_imba_earthshaker_fissure_stun_duration"                     "STUN DURATION:"
+
+		"DOTA_Tooltip_ability_imba_earthshaker_enchant_totem"                             "Imba Earthshaker Enchant Totem"
+		"DOTA_Tooltip_ability_imba_earthshaker_enchant_totem_Description"                 ""
+		"DOTA_Tooltip_ability_imba_earthshaker_enchant_totem_totem_damage_percentage"     "TOTEM DAMAGE PERCENTAGE:"
+		"DOTA_Tooltip_ability_imba_earthshaker_enchant_totem_tooltip_duration"            "TOOLTIP DURATION:"
+
+		"DOTA_Tooltip_ability_imba_earthshaker_aftershock"                                "Imba Earthshaker Aftershock"
+		"DOTA_Tooltip_ability_imba_earthshaker_aftershock_Description"                    ""
+		"DOTA_Tooltip_ability_imba_earthshaker_aftershock_radius"                         "RADIUS:"
+		"DOTA_Tooltip_ability_imba_earthshaker_aftershock_damage"                         "DAMAGE:"
+		"DOTA_Tooltip_ability_imba_earthshaker_aftershock_stun_duration"                  "STUN DURATION:"
+
+		"DOTA_Tooltip_ability_imba_earthshaker_echo_slam"                                 "Imba Earthshaker Echo Slam"
+		"DOTA_Tooltip_ability_imba_earthshaker_echo_slam_Description"                     ""
+		"DOTA_Tooltip_ability_imba_earthshaker_echo_slam_echo_slam_damage_range"          "ECHO SLAM DAMAGE RANGE:"
+		"DOTA_Tooltip_ability_imba_earthshaker_echo_slam_echo_slam_echo_range"            "ECHO SLAM ECHO RANGE:"
+		"DOTA_Tooltip_ability_imba_earthshaker_echo_slam_echo_slam_echo_damage"           "ECHO SLAM ECHO DAMAGE:"
+
+		"DOTA_Tooltip_ability_imba_chaos_knight_chaos_bolt"                               "Imba Chaos Knight Chaos Bolt"
+		"DOTA_Tooltip_ability_imba_chaos_knight_chaos_bolt_Description"                   ""
+		"DOTA_Tooltip_ability_imba_chaos_knight_chaos_bolt_chaos_bolt_speed"              "CHAOS BOLT SPEED:"
+		"DOTA_Tooltip_ability_imba_chaos_knight_chaos_bolt_stun_min"                      "STUN MIN:"
+		"DOTA_Tooltip_ability_imba_chaos_knight_chaos_bolt_stun_max"                      "STUN MAX:"
+		"DOTA_Tooltip_ability_imba_chaos_knight_chaos_bolt_damage_min"                    "DAMAGE MIN:"
+		"DOTA_Tooltip_ability_imba_chaos_knight_chaos_bolt_damage_max"                    "DAMAGE MAX:"
+		"DOTA_Tooltip_ability_imba_chaos_knight_chaos_bolt_illusion_duration"             "ILLUSION DURATION:"
+		"DOTA_Tooltip_ability_imba_chaos_knight_chaos_bolt_outgoing_damage"               "OUTGOING DAMAGE:"
+		"DOTA_Tooltip_ability_imba_chaos_knight_chaos_bolt_outgoing_damage_tooltip"       "OUTGOING DAMAGE TOOLTIP:"
+		"DOTA_Tooltip_ability_imba_chaos_knight_chaos_bolt_incoming_damage"               "INCOMING DAMAGE:"
+		"DOTA_Tooltip_ability_imba_chaos_knight_chaos_bolt_incoming_damage_tooltip"       "INCOMING DAMAGE TOOLTIP:"
+		"DOTA_Tooltip_ability_imba_chaos_knight_chaos_bolt_invuln_duration"               "INVULN DURATION:"
+		"DOTA_Tooltip_ability_imba_chaos_knight_chaos_bolt_vision_radius"                 "VISION RADIUS:"
+
+		"DOTA_Tooltip_ability_imba_chaos_knight_chaos_strike"                             "Imba Chaos Knight Chaos Strike"
+		"DOTA_Tooltip_ability_imba_chaos_knight_chaos_strike_Description"                 ""
+		"DOTA_Tooltip_ability_imba_chaos_knight_chaos_strike_crit_damage"                 "CRIT DAMAGE:"
+		"DOTA_Tooltip_ability_imba_chaos_knight_chaos_strike_crit_chance"                 "CRIT CHANCE:"
+		"DOTA_Tooltip_ability_imba_chaos_knight_chaos_strike_illusion_duration"           "ILLUSION DURATION:"
+		"DOTA_Tooltip_ability_imba_chaos_knight_chaos_strike_outgoing_damage"             "OUTGOING DAMAGE:"
+		"DOTA_Tooltip_ability_imba_chaos_knight_chaos_strike_outgoing_damage_tooltip"     "OUTGOING DAMAGE TOOLTIP:"
+		"DOTA_Tooltip_ability_imba_chaos_knight_chaos_strike_incoming_damage"             "INCOMING DAMAGE:"
+		"DOTA_Tooltip_ability_imba_chaos_knight_chaos_strike_incoming_damage_tooltip"     "INCOMING DAMAGE TOOLTIP:"
+		"DOTA_Tooltip_ability_imba_chaos_knight_chaos_strike_invuln_duration"             "INVULN DURATION:"
+		"DOTA_Tooltip_ability_imba_chaos_knight_chaos_strike_vision_radius"               "VISION RADIUS:"
+
+		"DOTA_Tooltip_ability_imba_chaos_knight_phantasm"                                 "Imba Chaos Knight Phantasm"
+		"DOTA_Tooltip_ability_imba_chaos_knight_phantasm_Description"                     ""
+		"DOTA_Tooltip_ability_imba_chaos_knight_phantasm_images_count"                    "IMAGES COUNT:"
+		"DOTA_Tooltip_ability_imba_chaos_knight_phantasm_extra_phantasm_chance_pct_tooltip"		"EXTRA PHANTASM CHANCE PCT TOOLTIP:"
+		"DOTA_Tooltip_ability_imba_chaos_knight_phantasm_illusion_duration"               "ILLUSION DURATION:"
+		"DOTA_Tooltip_ability_imba_chaos_knight_phantasm_outgoing_damage"                 "OUTGOING DAMAGE:"
+		"DOTA_Tooltip_ability_imba_chaos_knight_phantasm_outgoing_damage_tooltip"         "OUTGOING DAMAGE TOOLTIP:"
+		"DOTA_Tooltip_ability_imba_chaos_knight_phantasm_incoming_damage"                 "INCOMING DAMAGE:"
+		"DOTA_Tooltip_ability_imba_chaos_knight_phantasm_incoming_damage_tooltip"         "INCOMING DAMAGE TOOLTIP:"
+		"DOTA_Tooltip_ability_imba_chaos_knight_phantasm_invuln_duration"                 "INVULN DURATION:"
+		"DOTA_Tooltip_ability_imba_chaos_knight_phantasm_vision_radius"                   "VISION RADIUS:"
+
+		"DOTA_Tooltip_ability_imba_chaos_knight_reality_rift"                             "Imba Chaos Knight Reality Rift"
+		"DOTA_Tooltip_ability_imba_chaos_knight_reality_rift_Description"                 ""
+		"DOTA_Tooltip_ability_imba_chaos_knight_reality_rift_cast_range"                  "CAST RANGE:"
+		"DOTA_Tooltip_ability_imba_chaos_knight_reality_rift_bonus_damage"                "BONUS DAMAGE:"
+		"DOTA_Tooltip_ability_imba_chaos_knight_reality_rift_bonus_duration"              "BONUS DURATION:"
+		"DOTA_Tooltip_ability_imba_chaos_knight_reality_rift_illusion_search_radius"      "ILLUSION SEARCH RADIUS:"
+		"DOTA_Tooltip_ability_imba_chaos_knight_reality_rift_min_range"                   "MIN RANGE:"
+		"DOTA_Tooltip_ability_imba_chaos_knight_reality_rift_max_range"                   "MAX RANGE:"
+		"DOTA_Tooltip_ability_imba_chaos_knight_reality_rift_illusion_duration"           "ILLUSION DURATION:"
+		"DOTA_Tooltip_ability_imba_chaos_knight_reality_rift_outgoing_damage"             "OUTGOING DAMAGE:"
+		"DOTA_Tooltip_ability_imba_chaos_knight_reality_rift_outgoing_damage_tooltip"     "OUTGOING DAMAGE TOOLTIP:"
+		"DOTA_Tooltip_ability_imba_chaos_knight_reality_rift_incoming_damage"             "INCOMING DAMAGE:"
+		"DOTA_Tooltip_ability_imba_chaos_knight_reality_rift_incoming_damage_tooltip"     "INCOMING DAMAGE TOOLTIP:"
+		"DOTA_Tooltip_ability_imba_chaos_knight_reality_rift_invuln_duration"             "INVULN DURATION:"
+		"DOTA_Tooltip_ability_imba_chaos_knight_reality_rift_vision_radius"               "VISION RADIUS:"
+
+		"DOTA_Tooltip_ability_imba_kunkka_ghostship_ghostship_distance"                   "GHOSTSHIP DISTANCE:"
+		"DOTA_Tooltip_ability_imba_kunkka_ghostship_ghostship_speed"                      "GHOSTSHIP SPEED:"
+		"DOTA_Tooltip_ability_imba_kunkka_ghostship_damage_duration"                      "DAMAGE DURATION:"
+		"DOTA_Tooltip_ability_imba_kunkka_ghostship_damage_interval"                      "DAMAGE INTERVAL:"
+
+		"DOTA_Tooltip_ability_imba_kunkka_torrent_tick_count"                             "TICK COUNT:"
+		"DOTA_Tooltip_ability_imba_kunkka_torrent_vision_duration"                        "VISION DURATION:"
+		"DOTA_Tooltip_ability_imba_kunkka_torrent_torrent_height"                         "TORRENT HEIGHT:"
+
+		"DOTA_Tooltip_ability_imba_kunkka_x_marks_the_spot_allied_duration_tooltip"       "ALLIED DURATION TOOLTIP:"
+		"DOTA_Tooltip_ability_imba_kunkka_x_marks_the_spot_fow_range"                     "FOW RANGE:"
+		"DOTA_Tooltip_ability_imba_kunkka_x_marks_the_spot_fow_duration"                  "FOW DURATION:"
+
+		"DOTA_Tooltip_ability_imba_lion_impale"                                           "Imba Lion Impale"
+		"DOTA_Tooltip_ability_imba_lion_impale_Description"                               ""
+		"DOTA_Tooltip_ability_imba_lion_impale_width"                                     "WIDTH:"
+		"DOTA_Tooltip_ability_imba_lion_impale_duration"                                  "DURATION:"
+		"DOTA_Tooltip_ability_imba_lion_impale_length"                                    "LENGTH:"
+		"DOTA_Tooltip_ability_imba_lion_impale_speed"                                     "SPEED:"
+		"DOTA_Tooltip_ability_imba_lion_impale_air_time"                                  "AIR TIME:"
+
+		"DOTA_Tooltip_ability_imba_lion_voodoo"                                           "Imba Lion Voodoo"
+		"DOTA_Tooltip_ability_imba_lion_voodoo_Description"                               ""
+		"DOTA_Tooltip_ability_imba_lion_voodoo_duration"                                  "DURATION:"
+		"DOTA_Tooltip_ability_imba_lion_voodoo_movespeed"                                 "MOVESPEED:"
+
+		"DOTA_Tooltip_ability_imba_lion_mana_drain"                                       "Imba Lion Mana Drain"
+		"DOTA_Tooltip_ability_imba_lion_mana_drain_Description"                           ""
+		"DOTA_Tooltip_ability_imba_lion_mana_drain_duration"                              "DURATION:"
+		"DOTA_Tooltip_ability_imba_lion_mana_drain_mana_per_second"                       "MANA PER SECOND:"
+		"DOTA_Tooltip_ability_imba_lion_mana_drain_break_distance"                        "BREAK DISTANCE:"
+		"DOTA_Tooltip_ability_imba_lion_mana_drain_illusion_kill_time"                    "ILLUSION KILL TIME:"
+		"DOTA_Tooltip_ability_imba_lion_mana_drain_tick_interval"                         "TICK INTERVAL:"
+
+		"DOTA_Tooltip_ability_imba_lion_finger_of_death"                                  "Imba Lion Finger Of Death"
+		"DOTA_Tooltip_ability_imba_lion_finger_of_death_Description"                      ""
+		"DOTA_Tooltip_ability_imba_lion_finger_of_death_damage"                           "DAMAGE:"
+		"DOTA_Tooltip_ability_imba_lion_finger_of_death_damage_scepter"                   "DAMAGE SCEPTER:"
+		"DOTA_Tooltip_ability_imba_lion_finger_of_death_mana_cost_scepter"                "MANA COST SCEPTER:"
+		"DOTA_Tooltip_ability_imba_lion_finger_of_death_damage_delay"                     "DAMAGE DELAY:"
+		"DOTA_Tooltip_ability_imba_lion_finger_of_death_cooldown_scepter"                 "COOLDOWN SCEPTER:"
+		"DOTA_Tooltip_ability_imba_lion_finger_of_death_splash_radius_scepter"            "SPLASH RADIUS SCEPTER:"
+		"DOTA_Tooltip_ability_imba_lion_finger_of_death_hex_radius"                       "HEX RADIUS:"
+		"DOTA_Tooltip_ability_imba_lion_finger_of_death_hex_radius_scepter"               "HEX RADIUS SCEPTER:"
+		"DOTA_Tooltip_ability_imba_lion_finger_of_death_duration"                         "DURATION:"
+
+		"DOTA_Tooltip_ability_imba_furion_sprout"                                         "Imba Furion Sprout"
+		"DOTA_Tooltip_ability_imba_furion_sprout_Description"                             ""
+		"DOTA_Tooltip_ability_imba_furion_sprout_vision_range"                            "VISION RANGE:"
+		"DOTA_Tooltip_ability_imba_furion_sprout_duration"                                "DURATION:"
+		"DOTA_Tooltip_ability_imba_furion_sprout_radius_a"                                "RADIUS A:"
+		"DOTA_Tooltip_ability_imba_furion_sprout_radius_B"                                "RADIUS B:"
+		"DOTA_Tooltip_ability_imba_furion_sprout_radius_C"                                "RADIUS C:"
+
+		"DOTA_Tooltip_ability_imba_furion_teleportation"                                  "Imba Furion Teleportation"
+		"DOTA_Tooltip_ability_imba_furion_teleportation_Description"                      ""
+
+		"DOTA_Tooltip_ability_imba_furion_force_of_nature"                                "Imba Furion Force Of Nature"
+		"DOTA_Tooltip_ability_imba_furion_force_of_nature_Description"                    ""
+		"DOTA_Tooltip_ability_imba_furion_force_of_nature_area_of_effect"                 "AREA OF EFFECT:"
+		"DOTA_Tooltip_ability_imba_furion_force_of_nature_max_treants"                    "MAX TREANTS:"
+		"DOTA_Tooltip_ability_imba_furion_force_of_nature_duration"                       "DURATION:"
+		"DOTA_Tooltip_ability_imba_furion_force_of_nature_check_trees_precast"            "CHECK TREES PRECAST:"
+
+		"DOTA_Tooltip_ability_imba_furion_wrath_of_nature"                                "Imba Furion Wrath Of Nature"
+		"DOTA_Tooltip_ability_imba_furion_wrath_of_nature_Description"                    ""
+		"DOTA_Tooltip_ability_imba_furion_wrath_of_nature_max_targets"                    "MAX TARGETS:"
+		"DOTA_Tooltip_ability_imba_furion_wrath_of_nature_damage"                         "DAMAGE:"
+		"DOTA_Tooltip_ability_imba_furion_wrath_of_nature_damage_percent_add"             "DAMAGE PERCENT ADD:"
+		"DOTA_Tooltip_ability_imba_furion_wrath_of_nature_jump_delay"                     "JUMP DELAY:"
+		"DOTA_Tooltip_ability_imba_furion_wrath_of_nature_max_targets_scepter"            "MAX TARGETS SCEPTER:"
+		"DOTA_Tooltip_ability_imba_furion_wrath_of_nature_damage_scepter"                 "DAMAGE SCEPTER:"
+
+		"DOTA_Tooltip_ability_imba_wisp_empty1"                                           "Imba Wisp Empty1"
+		"DOTA_Tooltip_ability_imba_wisp_empty1_Description"                               ""
+
+		"DOTA_Tooltip_ability_imba_wisp_empty2"                                           "Imba Wisp Empty2"
+		"DOTA_Tooltip_ability_imba_wisp_empty2_Description"                               ""
+
+		"DOTA_Tooltip_ability_imba_wisp_overcharge"                                       "Imba Wisp Overcharge"
+		"DOTA_Tooltip_ability_imba_wisp_overcharge_Description"                           ""
+		"DOTA_Tooltip_ability_imba_wisp_overcharge_bonus_attack_speed"                    "BONUS ATTACK SPEED:"
+		"DOTA_Tooltip_ability_imba_wisp_overcharge_bonus_damage_pct"                      "BONUS DAMAGE PCT:"
+		"DOTA_Tooltip_ability_imba_wisp_overcharge_drain_interval"                        "DRAIN INTERVAL:"
+		"DOTA_Tooltip_ability_imba_wisp_overcharge_drain_pct"                             "DRAIN PCT:"
+		"DOTA_Tooltip_ability_imba_wisp_overcharge_drain_pct_tooltip"                     "DRAIN PCT TOOLTIP:"
+
+		"DOTA_Tooltip_ability_imba_wisp_relocate"                                         "Imba Wisp Relocate"
+		"DOTA_Tooltip_ability_imba_wisp_relocate_Description"                             ""
+		"DOTA_Tooltip_ability_imba_wisp_relocate_cast_delay"                              "CAST DELAY:"
+		"DOTA_Tooltip_ability_imba_wisp_relocate_return_time"                             "RETURN TIME:"
+		"DOTA_Tooltip_ability_imba_wisp_relocate_destroy_tree_radius"                     "DESTROY TREE RADIUS:"
+		"DOTA_Tooltip_ability_imba_wisp_relocate_vision_radius"                           "VISION RADIUS:"
+		"DOTA_Tooltip_ability_imba_wisp_relocate_extra_tether_duration"                   "EXTRA TETHER DURATION:"
+
+		"DOTA_Tooltip_ability_imba_wisp_spirits"                                          "Imba Wisp Spirits"
+		"DOTA_Tooltip_ability_imba_wisp_spirits_Description"                              ""
+		"DOTA_Tooltip_ability_imba_wisp_spirits_creep_damage"                             "CREEP DAMAGE:"
+		"DOTA_Tooltip_ability_imba_wisp_spirits_hero_damage"                              "HERO DAMAGE:"
+		"DOTA_Tooltip_ability_imba_wisp_spirits_revolution_time"                          "REVOLUTION TIME:"
+		"DOTA_Tooltip_ability_imba_wisp_spirits_min_range"                                "MIN RANGE:"
+		"DOTA_Tooltip_ability_imba_wisp_spirits_max_range"                                "MAX RANGE:"
+		"DOTA_Tooltip_ability_imba_wisp_spirits_hero_hit_radius"                          "HERO HIT RADIUS:"
+		"DOTA_Tooltip_ability_imba_wisp_spirits_explode_radius"                           "EXPLODE RADIUS:"
+		"DOTA_Tooltip_ability_imba_wisp_spirits_hit_radius"                               "HIT RADIUS:"
+		"DOTA_Tooltip_ability_imba_wisp_spirits_default_radius"                           "DEFAULT RADIUS:"
+		"DOTA_Tooltip_ability_imba_wisp_spirits_spirit_movement_rate"                     "SPIRIT MOVEMENT RATE:"
+		"DOTA_Tooltip_ability_imba_wisp_spirits_spirit_duration"                          "SPIRIT DURATION:"
+		"DOTA_Tooltip_ability_imba_wisp_spirits_num_spirits"                              "NUM SPIRITS:"
+		"DOTA_Tooltip_ability_imba_wisp_spirits_spirit_summon_interval"                   "SPIRIT SUMMON INTERVAL:"
+		"DOTA_Tooltip_ability_imba_wisp_spirits_spirit_turn_rate"                         "SPIRIT TURN RATE:"
+		"DOTA_Tooltip_ability_imba_wisp_spirits_vision_duration"                          "VISION DURATION:"
+		"DOTA_Tooltip_ability_imba_wisp_spirits_think_interval"                           "THINK INTERVAL:"
+		"DOTA_Tooltip_ability_imba_wisp_spirits_creep_damage_interval"                    "CREEP DAMAGE INTERVAL:"
+
+		"DOTA_Tooltip_ability_imba_wisp_spirits_in"                                       "Imba Wisp Spirits In"
+		"DOTA_Tooltip_ability_imba_wisp_spirits_in_Description"                           ""
+
+		"DOTA_Tooltip_ability_imba_wisp_spirits_out"                                      "Imba Wisp Spirits Out"
+		"DOTA_Tooltip_ability_imba_wisp_spirits_out_Description"                          ""
+
+		"DOTA_Tooltip_ability_imba_wisp_tether_break"                                     "Imba Wisp Tether Break"
+		"DOTA_Tooltip_ability_imba_wisp_tether_break_Description"                         ""
+
+		"DOTA_Tooltip_ability_imba_wisp_tether"                                           "Imba Wisp Tether"
+		"DOTA_Tooltip_ability_imba_wisp_tether_Description"                               ""
+		"DOTA_Tooltip_ability_imba_wisp_tether_radius"                                    "RADIUS:"
+		"DOTA_Tooltip_ability_imba_wisp_tether_movespeed"                                 "MOVESPEED:"
+		"DOTA_Tooltip_ability_imba_wisp_tether_latch_distance"                            "LATCH DISTANCE:"
+		"DOTA_Tooltip_ability_imba_wisp_tether_latch_speed"                               "LATCH SPEED:"
+		"DOTA_Tooltip_ability_imba_wisp_tether_tether_duration"                           "TETHER DURATION:"
+		"DOTA_Tooltip_ability_imba_wisp_tether_tether_heal_amp"                           "TETHER HEAL AMP:"
+		"DOTA_Tooltip_ability_imba_wisp_tether_slow"                                      "SLOW:"
+		"DOTA_Tooltip_ability_imba_wisp_tether_attackslow_tooltip"                        "ATTACKSLOW TOOLTIP:"
+		"DOTA_Tooltip_ability_imba_wisp_tether_stun_duration"                             "STUN DURATION:"
+		"DOTA_Tooltip_ability_imba_wisp_tether_latch_distance_to_target"                  "LATCH DISTANCE TO TARGET:"
+		"DOTA_Tooltip_ability_imba_wisp_tether_latch_destroy_tree_radius"                 "LATCH DESTROY TREE RADIUS:"
+		"DOTA_Tooltip_ability_imba_wisp_tether_latch_tick_interval"                       "LATCH TICK INTERVAL:"
+		"DOTA_Tooltip_ability_imba_wisp_tether_tether_line_radius"                        "TETHER LINE RADIUS:"
+		"DOTA_Tooltip_ability_imba_wisp_tether_tether_line_tick_interval"                 "TETHER LINE TICK INTERVAL:"
+
+		"DOTA_Tooltip_ability_imba_enigma_midnight_pulse"                                 "Imba Enigma Midnight Pulse"
+		"DOTA_Tooltip_ability_imba_enigma_midnight_pulse_Description"                     ""
+		"DOTA_Tooltip_ability_imba_enigma_midnight_pulse_radius"                          "RADIUS:"
+		"DOTA_Tooltip_ability_imba_enigma_midnight_pulse_damage_percent"                  "DAMAGE PERCENT:"
+		"DOTA_Tooltip_ability_imba_enigma_midnight_pulse_duration"                        "DURATION:"
+
+		"DOTA_Tooltip_ability_imba_enigma_demonic_conversion"                             "Imba Enigma Demonic Conversion"
+		"DOTA_Tooltip_ability_imba_enigma_demonic_conversion_Description"                 ""
+		"DOTA_Tooltip_ability_imba_enigma_demonic_conversion_chargetime"                  "CHARGETIME:"
+		"DOTA_Tooltip_ability_imba_enigma_demonic_conversion_radius"                      "RADIUS:"
+		"DOTA_Tooltip_ability_imba_enigma_demonic_conversion_pull_speed"                  "PULL SPEED:"
+		"DOTA_Tooltip_ability_imba_enigma_demonic_conversion_proc_chance"                 "PROC CHANCE:"
+
+		"DOTA_Tooltip_ability_imba_enigma_malefice"                                       "Imba Enigma Malefice"
+		"DOTA_Tooltip_ability_imba_enigma_malefice_Description"                           ""
+		"DOTA_Tooltip_ability_imba_enigma_malefice_tick_rate"                             "TICK RATE:"
+		"DOTA_Tooltip_ability_imba_enigma_malefice_stun_duration"                         "STUN DURATION:"
+		"DOTA_Tooltip_ability_imba_enigma_malefice_damage"                                "DAMAGE:"
+		"DOTA_Tooltip_ability_imba_enigma_malefice_duration"                              "DURATION:"
+		"DOTA_Tooltip_ability_imba_enigma_malefice_tooltip_stuns"                         "TOOLTIP STUNS:"
+
+		"DOTA_Tooltip_ability_imba_enigma_black_hole"                                     "Imba Enigma Black Hole"
+		"DOTA_Tooltip_ability_imba_enigma_black_hole_Description"                         ""
+		"DOTA_Tooltip_ability_imba_enigma_black_hole_chargetime"                          "CHARGETIME:"
+		"DOTA_Tooltip_ability_imba_enigma_black_hole_radius"                              "RADIUS:"
+		"DOTA_Tooltip_ability_imba_enigma_black_hole_pull_speed"                          "PULL SPEED:"
+		"DOTA_Tooltip_ability_imba_enigma_black_hole_extra_radius"                        "EXTRA RADIUS:"
+		"DOTA_Tooltip_ability_imba_enigma_black_hole_extra_pull_speed"                    "EXTRA PULL SPEED:"
+
+		"DOTA_Tooltip_ability_dota_ability_throw_coin"                                    "Dota Ability Throw Coin"
+		"DOTA_Tooltip_ability_dota_ability_throw_coin_Description"                        ""
+
+		"DOTA_Tooltip_ability_dota_ability_throw_coin_long"                               "Dota Ability Throw Coin Long"
+		"DOTA_Tooltip_ability_dota_ability_throw_coin_long_Description"                   ""
+
+		"DOTA_Tooltip_ability_dota_ability_celebrate"                                     "Dota Ability Celebrate"
+		"DOTA_Tooltip_ability_dota_ability_celebrate_Description"                         ""
+
+		"DOTA_Tooltip_ability_dota_ability_vision_revealer"                               "Dota Ability Vision Revealer"
+		"DOTA_Tooltip_ability_dota_ability_vision_revealer_Description"                   ""
+
+		"DOTA_Tooltip_ability_dota_ability_xp_granter"                                    "Dota Ability Xp Granter"
+		"DOTA_Tooltip_ability_dota_ability_xp_granter_Description"                        ""
+
+		"DOTA_Tooltip_ability_dota_ability_xp_granter2"                                   "Dota Ability Xp Granter2"
+		"DOTA_Tooltip_ability_dota_ability_xp_granter2_Description"                       ""
+
+		"DOTA_Tooltip_ability_dota_ability_xp_global"                                     "Dota Ability Xp Global"
+		"DOTA_Tooltip_ability_dota_ability_xp_global_Description"                         ""
+
+		"DOTA_Tooltip_ability_dota_ability_reveal_invis"                                  "Dota Ability Reveal Invis"
+		"DOTA_Tooltip_ability_dota_ability_reveal_invis_Description"                      ""
+
+		"DOTA_Tooltip_ability_dota_ability_treasure_courier"                              "Dota Ability Treasure Courier"
+		"DOTA_Tooltip_ability_dota_ability_treasure_courier_Description"                  ""
+
+		"DOTA_Tooltip_ability_dota_ability_dummy"                                         "Dota Ability Dummy"
+		"DOTA_Tooltip_ability_dota_ability_dummy_Description"                             ""
+
+		"DOTA_Tooltip_ability_imba_dark_seer_ion_shell"                                   "Imba Dark Seer Ion Shell"
+		"DOTA_Tooltip_ability_imba_dark_seer_ion_shell_Description"                       ""
+		"DOTA_Tooltip_ability_imba_dark_seer_ion_shell_radius"                            "RADIUS:"
+		"DOTA_Tooltip_ability_imba_dark_seer_ion_shell_damage_per_second"                 "DAMAGE PER SECOND:"
+		"DOTA_Tooltip_ability_imba_dark_seer_ion_shell_duration"                          "DURATION:"
+		"DOTA_Tooltip_ability_imba_dark_seer_ion_shell_think_interval"                    "THINK INTERVAL:"
+
+		"DOTA_Tooltip_ability_imba_dark_seer_surge"                                       "Imba Dark Seer Surge"
+		"DOTA_Tooltip_ability_imba_dark_seer_surge_Description"                           ""
+		"DOTA_Tooltip_ability_imba_dark_seer_surge_duration"                              "DURATION:"
+		"DOTA_Tooltip_ability_imba_dark_seer_surge_move_speed"                            "MOVE SPEED:"
+
+		"DOTA_Tooltip_ability_imba_dark_seer_vacuum"                                      "Imba Dark Seer Vacuum"
+		"DOTA_Tooltip_ability_imba_dark_seer_vacuum_Description"                          ""
+		"DOTA_Tooltip_ability_imba_dark_seer_vacuum_radius"                               "RADIUS:"
+		"DOTA_Tooltip_ability_imba_dark_seer_vacuum_duration"                             "DURATION:"
+		"DOTA_Tooltip_ability_imba_dark_seer_vacuum_damage"                               "DAMAGE:"
+		"DOTA_Tooltip_ability_imba_dark_seer_vacuum_radius_tree"                          "RADIUS TREE:"
+
+		"DOTA_Tooltip_ability_imba_dark_seer_wall_of_replica"                             "Imba Dark Seer Wall Of Replica"
+		"DOTA_Tooltip_ability_imba_dark_seer_wall_of_replica_Description"                 ""
+		"DOTA_Tooltip_ability_imba_dark_seer_wall_of_replica_damage"                      "DAMAGE:"
+		"DOTA_Tooltip_ability_imba_dark_seer_wall_of_replica_duration"                    "DURATION:"
+		"DOTA_Tooltip_ability_imba_dark_seer_wall_of_replica_replica_damage_outgoing"     "REPLICA DAMAGE OUTGOING:"
+		"DOTA_Tooltip_ability_imba_dark_seer_wall_of_replica_tooltip_outgoing"            "TOOLTIP OUTGOING:"
+		"DOTA_Tooltip_ability_imba_dark_seer_wall_of_replica_replica_damage_incoming"     "REPLICA DAMAGE INCOMING:"
+		"DOTA_Tooltip_ability_imba_dark_seer_wall_of_replica_tooltip_replica_total_damage_incoming"		"TOOLTIP REPLICA TOTAL DAMAGE INCOMING:"
+		"DOTA_Tooltip_ability_imba_dark_seer_wall_of_replica_length"                      "LENGTH:"
+		"DOTA_Tooltip_ability_imba_dark_seer_wall_of_replica_replica_scale"               "REPLICA SCALE:"
+		"DOTA_Tooltip_ability_imba_dark_seer_wall_of_replica_range_tooltip"               "RANGE TOOLTIP:"
+		"DOTA_Tooltip_ability_imba_dark_seer_wall_of_replica_replica_damage_outgoing_scepter"		"REPLICA DAMAGE OUTGOING SCEPTER:"
+		"DOTA_Tooltip_ability_imba_dark_seer_wall_of_replica_tooltip_outgoing_scepter"    "TOOLTIP OUTGOING SCEPTER:"
+		"DOTA_Tooltip_ability_imba_dark_seer_wall_of_replica_width"                       "WIDTH:"
+
+		"DOTA_Tooltip_ability_imba_keeper_of_the_light_blinding_light"                    "Imba Keeper Of The Light Blinding Light"
+		"DOTA_Tooltip_ability_imba_keeper_of_the_light_blinding_light_Description"        ""
+		"DOTA_Tooltip_ability_imba_keeper_of_the_light_blinding_light_radius"             "RADIUS:"
+		"DOTA_Tooltip_ability_imba_keeper_of_the_light_blinding_light_miss_duration"      "MISS DURATION:"
+		"DOTA_Tooltip_ability_imba_keeper_of_the_light_blinding_light_miss_rate"          "MISS RATE:"
+		"DOTA_Tooltip_ability_imba_keeper_of_the_light_blinding_light_knockback_distance"		"KNOCKBACK DISTANCE:"
+		"DOTA_Tooltip_ability_imba_keeper_of_the_light_blinding_light_knockback_height"   "KNOCKBACK HEIGHT:"
+		"DOTA_Tooltip_ability_imba_keeper_of_the_light_blinding_light_knockback_duration"		"KNOCKBACK DURATION:"
+		"DOTA_Tooltip_ability_imba_keeper_of_the_light_blinding_light_tree_radius"        "TREE RADIUS:"
+
+		"DOTA_Tooltip_ability_imba_keeper_of_the_light_chakra_magic"                      "Imba Keeper Of The Light Chakra Magic"
+		"DOTA_Tooltip_ability_imba_keeper_of_the_light_chakra_magic_Description"          ""
+		"DOTA_Tooltip_ability_imba_keeper_of_the_light_chakra_magic_mana_restore"         "MANA RESTORE:"
+
+		"DOTA_Tooltip_ability_imba_keeper_of_the_light_empty1"                            "Imba Keeper Of The Light Empty1"
+		"DOTA_Tooltip_ability_imba_keeper_of_the_light_empty1_Description"                ""
+
+		"DOTA_Tooltip_ability_imba_keeper_of_the_light_empty2"                            "Imba Keeper Of The Light Empty2"
+		"DOTA_Tooltip_ability_imba_keeper_of_the_light_empty2_Description"                ""
+
+		"DOTA_Tooltip_ability_imba_keeper_of_the_light_illuminate"                        "Imba Keeper Of The Light Illuminate"
+		"DOTA_Tooltip_ability_imba_keeper_of_the_light_illuminate_Description"            ""
+		"DOTA_Tooltip_ability_imba_keeper_of_the_light_illuminate_damage_per_second"      "DAMAGE PER SECOND:"
+		"DOTA_Tooltip_ability_imba_keeper_of_the_light_illuminate_radius"                 "RADIUS:"
+		"DOTA_Tooltip_ability_imba_keeper_of_the_light_illuminate_range"                  "RANGE:"
+		"DOTA_Tooltip_ability_imba_keeper_of_the_light_illuminate_speed"                  "SPEED:"
+		"DOTA_Tooltip_ability_imba_keeper_of_the_light_illuminate_max_channel_time"       "MAX CHANNEL TIME:"
+		"DOTA_Tooltip_ability_imba_keeper_of_the_light_illuminate_vision_radius"          "VISION RADIUS:"
+		"DOTA_Tooltip_ability_imba_keeper_of_the_light_illuminate_vision_duration"        "VISION DURATION:"
+		"DOTA_Tooltip_ability_imba_keeper_of_the_light_illuminate_channel_vision_radius"		"CHANNEL VISION RADIUS:"
+		"DOTA_Tooltip_ability_imba_keeper_of_the_light_illuminate_channel_vision_interval"		"CHANNEL VISION INTERVAL:"
+		"DOTA_Tooltip_ability_imba_keeper_of_the_light_illuminate_channel_vision_duration"		"CHANNEL VISION DURATION:"
+		"DOTA_Tooltip_ability_imba_keeper_of_the_light_illuminate_channel_vision_step"    "CHANNEL VISION STEP:"
+
+		"DOTA_Tooltip_ability_imba_keeper_of_the_light_illuminate_end"                    "Imba Keeper Of The Light Illuminate End"
+		"DOTA_Tooltip_ability_imba_keeper_of_the_light_illuminate_end_Description"        ""
+
+		"DOTA_Tooltip_ability_imba_keeper_of_the_light_mana_leak"                         "Imba Keeper Of The Light Mana Leak"
+		"DOTA_Tooltip_ability_imba_keeper_of_the_light_mana_leak_Description"             ""
+		"DOTA_Tooltip_ability_imba_keeper_of_the_light_mana_leak_duration"                "DURATION:"
+		"DOTA_Tooltip_ability_imba_keeper_of_the_light_mana_leak_mana_leak_pct"           "MANA LEAK PCT:"
+		"DOTA_Tooltip_ability_imba_keeper_of_the_light_mana_leak_stun_duration"           "STUN DURATION:"
+		"DOTA_Tooltip_ability_imba_keeper_of_the_light_mana_leak_cast_range_tooltip"      "CAST RANGE TOOLTIP:"
+		"DOTA_Tooltip_ability_imba_keeper_of_the_light_mana_leak_leash_range_check"       "LEASH RANGE CHECK:"
+		"DOTA_Tooltip_ability_imba_keeper_of_the_light_mana_leak_check_interval"          "CHECK INTERVAL:"
+
+		"DOTA_Tooltip_ability_imba_keeper_of_the_light_recall"                            "Imba Keeper Of The Light Recall"
+		"DOTA_Tooltip_ability_imba_keeper_of_the_light_recall_Description"                ""
+		"DOTA_Tooltip_ability_imba_keeper_of_the_light_recall_teleport_delay"             "TELEPORT DELAY:"
+
+		"DOTA_Tooltip_ability_imba_keeper_of_the_light_spirit_form"                       "Imba Keeper Of The Light Spirit Form"
+		"DOTA_Tooltip_ability_imba_keeper_of_the_light_spirit_form_Description"           ""
+		"DOTA_Tooltip_ability_imba_keeper_of_the_light_spirit_form_duration"              "DURATION:"
+
+		"DOTA_Tooltip_ability_imba_keeper_of_the_light_spirit_form_illuminate"            "Imba Keeper Of The Light Spirit Form Illuminate"
+		"DOTA_Tooltip_ability_imba_keeper_of_the_light_spirit_form_illuminate_Description"		""
+		"DOTA_Tooltip_ability_imba_keeper_of_the_light_spirit_form_illuminate_damage_per_second"		"DAMAGE PER SECOND:"
+		"DOTA_Tooltip_ability_imba_keeper_of_the_light_spirit_form_illuminate_radius"     "RADIUS:"
+		"DOTA_Tooltip_ability_imba_keeper_of_the_light_spirit_form_illuminate_range"      "RANGE:"
+		"DOTA_Tooltip_ability_imba_keeper_of_the_light_spirit_form_illuminate_speed"      "SPEED:"
+		"DOTA_Tooltip_ability_imba_keeper_of_the_light_spirit_form_illuminate_max_channel_time"		"MAX CHANNEL TIME:"
+		"DOTA_Tooltip_ability_imba_keeper_of_the_light_spirit_form_illuminate_vision_radius"		"VISION RADIUS:"
+		"DOTA_Tooltip_ability_imba_keeper_of_the_light_spirit_form_illuminate_vision_duration"		"VISION DURATION:"
+		"DOTA_Tooltip_ability_imba_keeper_of_the_light_spirit_form_illuminate_channel_vision_radius"		"CHANNEL VISION RADIUS:"
+		"DOTA_Tooltip_ability_imba_keeper_of_the_light_spirit_form_illuminate_channel_vision_interval"		"CHANNEL VISION INTERVAL:"
+		"DOTA_Tooltip_ability_imba_keeper_of_the_light_spirit_form_illuminate_channel_vision_duration"		"CHANNEL VISION DURATION:"
+		"DOTA_Tooltip_ability_imba_keeper_of_the_light_spirit_form_illuminate_channel_vision_step"		"CHANNEL VISION STEP:"
+
+		"DOTA_Tooltip_ability_imba_keeper_of_the_light_spirit_form_illuminate_end"        "Imba Keeper Of The Light Spirit Form Illuminate End"
+		"DOTA_Tooltip_ability_imba_keeper_of_the_light_spirit_form_illuminate_end_Description"		""
+
+
+		// ******************** ITEMS ********************
+		"DOTA_Tooltip_ability_item_example_item"                                          "Example Item"
+		"DOTA_Tooltip_ability_item_example_item_Description"                              ""
+		"DOTA_Tooltip_ability_item_example_item_duration"                                 "DURATION:"
+		"DOTA_Tooltip_ability_item_example_item_damage_reduction"                         "DAMAGE REDUCTION:"
+		"DOTA_Tooltip_ability_item_example_item_radius"                                   "RADIUS:"
+		"DOTA_Tooltip_ability_item_example_item_speed"                                    "SPEED:"
+		"DOTA_Tooltip_ability_item_example_item_distance"                                 "DISTANCE:"
+		"DOTA_Tooltip_ability_item_example_item_damage"                                   "DAMAGE:"
+
+		"DOTA_Tooltip_ability_item_bag_of_gold"                                           "Bag Of Gold"
+		"DOTA_Tooltip_ability_item_bag_of_gold_Description"                               ""
+
+		"DOTA_Tooltip_ability_item_treasure_chest"                                        "Treasure Chest"
+		"DOTA_Tooltip_ability_item_treasure_chest_Description"                            ""
+

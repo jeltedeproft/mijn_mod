@@ -1,0 +1,124 @@
+<!-- kv3 encoding:text:version{e21c7f3c-8a33-41c5-9977-a76d3a32aa0d} format:generic:version{7412167c-06e9-4698-aff2-e63eb59037e7} -->
+{
+	_class = "CParticleSystemDefinition"
+	m_flCullRadius = -1.000000
+	m_flMaxRecreationTime = -1.000000
+	m_flConstantLifespan = 600.000000
+	m_nMaxParticles = 2
+	m_Operators =
+	[
+		{
+			_class = "C_OP_Decay"
+		},
+		{
+			_class = "C_OP_SetControlPointsToParticle"
+			m_nFirstControlPoint = 1
+			m_bDisableOperator = true
+		},
+		{
+			_class = "C_OP_StopAfterCPDuration"
+			m_nCP = 12
+		},
+		{
+			_class = "C_OP_BasicMovement"
+		},
+		{
+			_class = "C_OP_SetSingleControlPointPosition"
+			m_nCP1 = 2
+			m_vecCP1Pos =
+			[
+				0.000000,
+				0.000000,
+				300.000000,
+			]
+		},
+		{
+			_class = "C_OP_SetSingleControlPointPosition"
+			m_bUseWorldLocation = true
+			m_bSetOnce = true
+			m_nCP1 = 8
+			m_vecCP1Pos =
+			[
+				720.000000,
+				360.000000,
+				12.000000,
+			]
+		},
+		{
+			_class = "C_OP_SetParentControlPointsToChildCP"
+			m_nChildControlPoint = 11
+			m_nNumControlPoints = 3
+			m_nFirstSourcePoint = 8
+		},
+		{
+			_class = "C_OP_SetSingleControlPointPosition"
+			m_bSetOnce = true
+			m_vecCP1Pos =
+			[
+				0.000000,
+				0.000000,
+				300.000000,
+			]
+		},
+		{
+			_class = "C_OP_SetControlPointOrientation"
+			m_bUseWorldLocation = true
+			m_vecRotation =
+			[
+				0.000000,
+				100.000000,
+				0.000000,
+			]
+			m_vecRotationB =
+			[
+				0.000000,
+				100.000000,
+				0.000000,
+			]
+		},
+	]
+	m_Initializers =
+	[
+		{
+			_class = "C_INIT_CreateWithinSphere"
+		},
+		{
+			_class = "C_INIT_RemapCPtoScalar"
+			m_nCPInput = 11
+			m_nFieldOutput = 1
+			m_flInputMax = 1000.000000
+			m_flOutputMax = 1000.000000
+		},
+	]
+	m_Emitters =
+	[
+		{
+			_class = "C_OP_InstantaneousEmitter"
+			m_nParticlesToEmit = 1
+		},
+	]
+	m_Constraints =
+	[
+		{
+			_class = "C_OP_ConstrainDistanceToPath"
+			m_flMaxDistance0 = 0.000000
+			m_PathParameters =
+			{
+				m_nStartControlPointNumber = 2
+			}
+			m_flTravelTime = 1.000000
+			m_nFieldScale = 1
+		},
+	]
+	m_Children =
+	[
+		{
+			m_ChildRef = resource:"particles/neutral_fx/roshan_timer_b.vpcf"
+			m_flDelay = 1.000000
+		},
+		{
+			m_ChildRef = resource:"particles/neutral_fx/roshan_timer_c.vpcf"
+			m_flDelay = 480.000000
+		},
+	]
+}

@@ -1,0 +1,167 @@
+<!-- kv3 encoding:text:version{e21c7f3c-8a33-41c5-9977-a76d3a32aa0d} format:generic:version{7412167c-06e9-4698-aff2-e63eb59037e7} -->
+{
+	_class = "CParticleSystemDefinition"
+	m_nSnapshotControlPoint = 1
+	m_ConstantColor =
+	[
+		254,
+		233,
+		169,
+		40,
+	]
+	m_flConstantRadius = 64.000000
+	m_flNoDrawTimeToGoToSleep = 1.000000
+	m_nMaxParticles = 26
+	m_Operators =
+	[
+		{
+			_class = "C_OP_Decay"
+			m_nOpEndCapState = 1
+		},
+		{
+			_class = "C_OP_FadeInSimple"
+		},
+		{
+			_class = "C_OP_InterpolateRadius"
+			m_flStartScale = 0.000000
+			m_flBias = 0.850000
+		},
+		{
+			_class = "C_OP_InheritFromParentParticles"
+			m_nFieldOutput = 0
+		},
+		{
+			_class = "C_OP_InheritFromParentParticles"
+			m_nFieldOutput = 2
+		},
+	]
+	m_Renderers =
+	[
+		{
+			_class = "C_OP_RenderSpritesWithRenderSystem"
+			m_nOrientationType = 0
+			m_nSequenceOverride = -1
+			m_nOrientationControlPoint = -1
+			m_flMinSize = 0.000000
+			m_flMaxSize = 5000.000000
+			m_flStartFadeSize = 0.500000
+			m_flEndFadeSize = 0.750000
+			m_flZoomRate0 = 0.000000
+			m_flZoomRate1 = 0.000000
+			m_flDepthBias = 0.000000
+			m_flCenterXOffset = 0.000000
+			m_flCenterYOffset = 0.000000
+			m_flStartFadeDot = 1.000000
+			m_flEndFadeDot = 2.000000
+			m_flFinalTextureScaleU = 1.000000
+			m_flFinalTextureScaleV = 1.000000
+			m_flFinalTextureOffsetU = 0.000000
+			m_flFinalTextureOffsetV = 0.000000
+			m_flAnimationRate = 1.000000
+			m_flAnimationRate2 = 0.000000
+			m_bFitCycleToLifetime = false
+			m_bAnimateInFPS = false
+			m_flSelfIllumAmount = 0.000000
+			m_flDiffuseAmount = 1.000000
+			m_flSourceAlphaValueToMapToZero = 0.000000
+			m_flSourceAlphaValueToMapToOne = 1.000000
+			m_flSequence0RGBWeight = 0.500000
+			m_flSequence0AlphaWeight = 0.500000
+			m_flSequence1RGBWeight = 0.500000
+			m_flSequence1AlphaWeight = 0.500000
+			m_bPerVertexLighting = false
+			m_bAdditive = false
+			m_bMaxLuminanceBlendingSequence0 = false
+			m_bMaxLuminanceBlendingSequence1 = false
+			m_nSequenceCombineMode = 2
+			m_bRefract = false
+			m_flRefractAmount = 1.000000
+			m_bMod2X = true
+			m_bReverseZBuffering = false
+			m_bDisableZBuffering = false
+			m_stencilTestID = ""
+			m_stencilWriteID = ""
+			m_bWriteStencilOnDepthPass = true
+			m_bWriteStencilOnDepthFail = false
+			m_bParticleFeathering = false
+			m_flFeatheringMinDist = 0.000000
+			m_flFeatheringMaxDist = 15.000000
+			m_hTexture = "materials/particle/particle_flares/particle_flare_004b_mod.vtex"
+			VisibilityInputs =
+			{
+				m_flCameraBias = 0.000000
+				m_flInputMin = 0.000000
+				m_flInputMax = 0.000000
+				m_flAlphaScaleMin = 0.000000
+				m_flAlphaScaleMax = 1.000000
+				m_flRadiusScaleMin = 1.000000
+				m_flRadiusScaleMax = 1.000000
+				m_flRadiusScaleFOVBase = 0.000000
+				m_flProxyRadius = 1.000000
+				m_flDistanceInputMin = 0.000000
+				m_flDistanceInputMax = 0.000000
+				m_flDotInputMin = 0.000000
+				m_flDotInputMax = 0.000000
+				m_flNoPixelVisibilityFallback = 1.000000
+				m_nCPin = -1
+			}
+			m_source1MaterialName = ""
+			m_bDisableOperator = false
+			m_flOpStartFadeInTime = 0.000000
+			m_flOpEndFadeInTime = 0.000000
+			m_flOpStartFadeOutTime = 0.000000
+			m_flOpEndFadeOutTime = 0.000000
+			m_flOpFadeOscillatePeriod = 0.000000
+			m_flOpTimeOffsetMin = 0.000000
+			m_flOpTimeOffsetMax = 0.000000
+			m_nOpTimeOffsetSeed = 0
+			m_nOpStrengthScaleSeed = 0
+			m_flOpStrengthMinScale = 1.000000
+			m_flOpStrengthMaxScale = 1.000000
+			m_nOpTimeScaleSeed = 0
+			m_flOpTimeScaleMin = 1.000000
+			m_flOpTimeScaleMax = 1.000000
+			m_nOpEndCapState = -1
+			m_nOpScaleCP = -1
+			m_Notes = ""
+		},
+	]
+	m_Initializers =
+	[
+		{
+			_class = "C_INIT_RandomLifeTime"
+			m_fLifetimeMin = 0.150000
+			m_fLifetimeMax = 0.250000
+		},
+		{
+			_class = "C_INIT_CreateFromParentParticles"
+			m_flIncrement = 0.500000
+		},
+		{
+			_class = "C_INIT_RandomRotation"
+		},
+		{
+			_class = "C_INIT_RemapParticleCountToScalar"
+			m_nInputMax = 13
+			m_bScaleInitialRange = true
+			m_bActiveRange = true
+		},
+		{
+			_class = "C_INIT_RemapParticleCountToScalar"
+			m_nInputMin = 14
+			m_nInputMax = 25
+			m_flOutputMin = 1.000000
+			m_flOutputMax = 0.000000
+			m_bScaleInitialRange = true
+			m_bActiveRange = true
+		},
+	]
+	m_Emitters =
+	[
+		{
+			_class = "C_OP_InstantaneousEmitter"
+			m_nParticlesToEmit = 12
+		},
+	]
+	m_bShouldSort = false
+}

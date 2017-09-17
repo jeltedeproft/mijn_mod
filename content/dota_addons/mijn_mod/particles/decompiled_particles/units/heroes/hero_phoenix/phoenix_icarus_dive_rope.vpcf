@@ -1,0 +1,142 @@
+<!-- kv3 encoding:text:version{e21c7f3c-8a33-41c5-9977-a76d3a32aa0d} format:generic:version{7412167c-06e9-4698-aff2-e63eb59037e7} -->
+{
+	_class = "CParticleSystemDefinition"
+	m_ConstantColor =
+	[
+		255,
+		150,
+		0,
+		255,
+	]
+	m_flConstantRadius = 15.000000
+	m_nMaxParticles = 64
+	m_Operators =
+	[
+		{
+			_class = "C_OP_BasicMovement"
+		},
+		{
+			_class = "C_OP_Decay"
+		},
+		{
+			_class = "C_OP_FadeOutSimple"
+			m_flFadeOutTime = 0.500000
+		},
+		{
+			_class = "C_OP_ColorInterpolate"
+			m_ColorFade =
+			[
+				28,
+				0,
+				0,
+				255,
+			]
+			m_flFadeStartTime = 0.250000
+		},
+		{
+			_class = "C_OP_FadeInSimple"
+		},
+	]
+	m_Renderers =
+	[
+		{
+			_class = "C_OP_RenderRopes"
+			m_nMinTesselation = 4
+			m_nMaxTesselation = 4
+			m_flTextureVWorldSize = 499.999969
+			m_flFinalTextureScaleV = -1.000000
+			m_flFinalTextureOffsetV = 1.000000
+			m_nOrientationType = 3
+			m_flRadiusScale = 0.500000
+			m_nSequenceCombineMode = "2"
+			m_bAdditive = true
+			m_nRefractBlurType = "2"
+			m_flOverbrightFactor = 4.000000
+			m_hTexture = resource:"materials/particle/beam_crack_06.vtex"
+		},
+	]
+	m_Initializers =
+	[
+		{
+			_class = "C_INIT_RandomLifeTime"
+			m_fLifetimeMin = 2.000000
+			m_fLifetimeMax = 2.000000
+		},
+		{
+			_class = "C_INIT_RandomRotation"
+		},
+		{
+			_class = "C_INIT_RandomYawFlip"
+		},
+		{
+			_class = "C_INIT_PositionOffset"
+			m_OffsetMin =
+			[
+				0.000000,
+				-50.000000,
+				200.000000,
+			]
+			m_OffsetMax =
+			[
+				0.000000,
+				-50.000000,
+				200.000000,
+			]
+			m_bLocalCoords = true
+		},
+		{
+			_class = "C_INIT_RandomSequence"
+			m_nSequenceMax = 1
+		},
+		{
+			_class = "C_INIT_PositionPlaceOnGround"
+			m_flOffset = 10.000000
+			m_flMaxTraceLength = 256.000000
+			m_CollisionGroupName = "DEBRIS"
+			m_bKill = true
+			m_bSetNormal = true
+		},
+		{
+			_class = "C_INIT_RandomRadius"
+			m_flRadiusMin = 100.000000
+			m_flRadiusMax = 300.000000
+			m_flRadiusRandExponent = 5.000000
+		},
+		{
+			_class = "C_INIT_CreateWithinSphere"
+		},
+		{
+			_class = "C_INIT_RandomAlpha"
+		},
+		{
+			_class = "C_INIT_RandomColor"
+			m_ColorMin =
+			[
+				255,
+				167,
+				95,
+				255,
+			]
+			m_ColorMax =
+			[
+				255,
+				205,
+				71,
+				255,
+			]
+			m_nTintBlendMode = "2"
+		},
+		{
+			_class = "C_INIT_RemapParticleCountToScalar"
+			m_bScaleInitialRange = true
+		},
+	]
+	m_Emitters =
+	[
+		{
+			_class = "C_OP_ContinuousEmitter"
+			m_flStartTime = 1.000000
+			m_flEmitRate = 20.000000
+		},
+	]
+}

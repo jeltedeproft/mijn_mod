@@ -1,0 +1,133 @@
+<!-- kv3 encoding:text:version{e21c7f3c-8a33-41c5-9977-a76d3a32aa0d} format:generic:version{7412167c-06e9-4698-aff2-e63eb59037e7} -->
+{
+	_class = "CParticleSystemDefinition"
+	m_nSnapshotControlPoint = 6
+	m_pszSnapshotName = "particleseconitemsantimageantimage_blade_default.psf"
+	m_flConstantRadius = 28.000000
+	m_flConstantLifespan = 0.000000
+	m_nMaxParticles = 30
+	m_Operators =
+	[
+		{
+			_class = "C_OP_MovementRigidAttachToCP"
+		},
+		{
+			_class = "C_OP_Decay"
+			m_nOpEndCapState = 1
+		},
+	]
+	m_Renderers =
+	[
+		{
+			_class = "C_OP_RenderRopes"
+			m_nMaxTesselation = 1
+			m_flTextureVWorldSize = 1666.666748
+			m_flTextureVScrollRate = 583333.375000
+			m_flFinalTextureScaleU = -1.000000
+			m_flFinalTextureScaleV = -1.000000
+			m_flFinalTextureOffsetU = 1.000000
+			m_flFinalTextureOffsetV = 1.000000
+			m_flRadiusScale = 0.500000
+			m_nSequenceCombineMode = "2"
+			m_bAdditive = true
+			m_nRefractBlurType = "2"
+			m_hTexture = resource:"materials/particle/ribbon_electric2.vtex"
+		},
+	]
+	m_Initializers =
+	[
+		{
+			_class = "C_INIT_RandomAlpha"
+		},
+		{
+			_class = "C_INIT_RemapParticleCountToScalar"
+			m_nFieldOutput = 7
+			m_nInputMax = 8
+			m_bActiveRange = true
+		},
+		{
+			_class = "C_INIT_RemapParticleCountToScalar"
+			m_nFieldOutput = 7
+			m_nInputMax = 8
+			m_flOutputMin = 1.000000
+			m_flOutputMax = 0.000000
+			m_bActiveRange = true
+			m_bInvert = true
+		},
+		{
+			_class = "C_INIT_PositionWarp"
+			m_vecWarpMin =
+			[
+				0.650000,
+				1.000000,
+				1.100000,
+			]
+			m_vecWarpMax =
+			[
+				0.650000,
+				1.000000,
+				1.100000,
+			]
+			m_nControlPointNumber = 4
+			m_bDisableOperator = true
+		},
+		{
+			_class = "C_INIT_InitFromCPSnapshot"
+			m_nControlPointNumber = 6
+			m_nAttributeToRead = 0
+			m_nLocalSpaceCP = 4
+		},
+		{
+			_class = "C_INIT_PositionOffset"
+			m_OffsetMin =
+			[
+				0.000000,
+				-1.000000,
+				-4.000000,
+			]
+			m_OffsetMax =
+			[
+				0.000000,
+				-1.000000,
+				-4.000000,
+			]
+		},
+		{
+			_class = "C_INIT_PositionWarp"
+			m_vecWarpMin =
+			[
+				-1.000000,
+				-1.000000,
+				1.000000,
+			]
+			m_vecWarpMax =
+			[
+				-1.000000,
+				-1.000000,
+				1.000000,
+			]
+			m_nControlPointNumber = 4
+		},
+		{
+			_class = "C_INIT_RemapParticleCountToScalar"
+			m_nInputMax = 32
+			m_flOutputMin = 1.000000
+			m_flOutputMax = 0.000000
+			m_bScaleInitialRange = true
+			m_bActiveRange = true
+		},
+		{
+			_class = "C_INIT_SetRigidAttachment"
+			m_nControlPointNumber = 4
+		},
+	]
+	m_Emitters =
+	[
+		{
+			_class = "C_OP_InstantaneousEmitter"
+			m_nParticlesToEmit = 12
+			m_nSnapshotControlPoint = 6
+		},
+	]
+	m_bShouldSort = false
+}

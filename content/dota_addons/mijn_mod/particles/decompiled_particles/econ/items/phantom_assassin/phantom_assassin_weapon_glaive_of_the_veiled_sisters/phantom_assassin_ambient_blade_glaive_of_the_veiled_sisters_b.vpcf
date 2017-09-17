@@ -1,0 +1,192 @@
+<!-- kv3 encoding:text:version{e21c7f3c-8a33-41c5-9977-a76d3a32aa0d} format:generic:version{7412167c-06e9-4698-aff2-e63eb59037e7} -->
+{
+	_class = "CParticleSystemDefinition"
+	m_nSnapshotControlPoint = 3
+	m_pszSnapshotName = "particleseconitemsphantom_assassinglaive_veiled_sisters_2.psf"
+	m_ConstantColor =
+	[
+		255,
+		245,
+		160,
+		25,
+	]
+	m_flConstantRadius = 6.000000
+	m_flNoDrawTimeToGoToSleep = 1.000000
+	m_nMaxParticles = 40
+	m_Operators =
+	[
+		{
+			_class = "C_OP_Decay"
+			m_nOpEndCapState = 1
+		},
+		{
+			_class = "C_OP_FadeInSimple"
+		},
+		{
+			_class = "C_OP_MovementRigidAttachToCP"
+		},
+	]
+	m_Renderers =
+	[
+		{
+			_class = "C_OP_RenderRopesWithRenderSystem"
+			m_flRadiusTaper = 1.000000
+			m_nMinTesselation = 1
+			m_nMaxTesselation = 1
+			m_flTessScale = 1.000000
+			m_flTextureVWorldSize = 400.000000
+			m_flTextureVScrollRate = -10.000000
+			m_flTextureVOffset = 0.000000
+			m_nOrientationType = 0
+			m_nScaleCP1 = -1
+			m_nScaleCP2 = -1
+			m_bScaleByControlPointDistance = false
+			m_bDrawAsOpaque = false
+			m_bGenerateNormals = false
+			m_flAnimationRate = 0.100000
+			m_flAnimationRate2 = 0.000000
+			m_bFitCycleToLifetime = false
+			m_bAnimateInFPS = false
+			m_flSelfIllumAmount = 2.000000
+			m_flDiffuseAmount = 1.000000
+			m_flSourceAlphaValueToMapToZero = 0.000000
+			m_flSourceAlphaValueToMapToOne = 1.000000
+			m_flSequence0RGBWeight = 0.500000
+			m_flSequence0AlphaWeight = 0.500000
+			m_flSequence1RGBWeight = 0.500000
+			m_flSequence1AlphaWeight = 0.500000
+			m_bPerVertexLighting = false
+			m_bAdditive = true
+			m_bMaxLuminanceBlendingSequence0 = false
+			m_bMaxLuminanceBlendingSequence1 = false
+			m_nSequenceCombineMode = 2
+			m_bRefract = false
+			m_flRefractAmount = 1.000000
+			m_bMod2X = false
+			m_bReverseZBuffering = false
+			m_bDisableZBuffering = false
+			m_stencilTestID = ""
+			m_stencilWriteID = ""
+			m_bWriteStencilOnDepthPass = true
+			m_bWriteStencilOnDepthFail = false
+			m_bParticleFeathering = false
+			m_flFeatheringMinDist = 0.000000
+			m_flFeatheringMaxDist = 15.000000
+			m_hTexture = "materials/particle/electrical_arc2/electrical_arc_white_2_05.vtex"
+			VisibilityInputs =
+			{
+				m_flCameraBias = 0.000000
+				m_flInputMin = 0.000000
+				m_flInputMax = 0.000000
+				m_flAlphaScaleMin = 0.000000
+				m_flAlphaScaleMax = 1.000000
+				m_flRadiusScaleMin = 1.000000
+				m_flRadiusScaleMax = 1.000000
+				m_flRadiusScaleFOVBase = 0.000000
+				m_flProxyRadius = 1.000000
+				m_flDistanceInputMin = 0.000000
+				m_flDistanceInputMax = 0.000000
+				m_flDotInputMin = 0.000000
+				m_flDotInputMax = 0.000000
+				m_flNoPixelVisibilityFallback = 1.000000
+				m_nCPin = -1
+			}
+			m_source1MaterialName = ""
+			m_bDisableOperator = false
+			m_flOpStartFadeInTime = 0.000000
+			m_flOpEndFadeInTime = 0.000000
+			m_flOpStartFadeOutTime = 0.000000
+			m_flOpEndFadeOutTime = 0.000000
+			m_flOpFadeOscillatePeriod = 0.000000
+			m_flOpTimeOffsetMin = 0.000000
+			m_flOpTimeOffsetMax = 0.000000
+			m_nOpTimeOffsetSeed = 0
+			m_nOpStrengthScaleSeed = 0
+			m_flOpStrengthMinScale = 1.000000
+			m_flOpStrengthMaxScale = 1.000000
+			m_nOpTimeScaleSeed = 0
+			m_flOpTimeScaleMin = 1.000000
+			m_flOpTimeScaleMax = 1.000000
+			m_nOpEndCapState = -1
+			m_nOpScaleCP = -1
+			m_Notes = ""
+		},
+	]
+	m_Initializers =
+	[
+		{
+			_class = "C_INIT_RandomLifeTime"
+			m_fLifetimeMin = 1.000000
+			m_fLifetimeMax = 1.000000
+		},
+		{
+			_class = "C_INIT_InitFromCPSnapshot"
+			m_nControlPointNumber = 3
+			m_nAttributeToRead = 0
+			m_nLocalSpaceCP = 2
+		},
+		{
+			_class = "C_INIT_RemapParticleCountToScalar"
+			m_nFieldOutput = 7
+			m_nInputMin = 30
+			m_nInputMax = 39
+			m_flOutputMin = 1.000000
+			m_flOutputMax = 0.000000
+			m_bScaleInitialRange = true
+			m_bActiveRange = true
+		},
+		{
+			_class = "C_INIT_RemapParticleCountToScalar"
+			m_nFieldOutput = 7
+			m_bScaleInitialRange = true
+			m_bActiveRange = true
+		},
+		{
+			_class = "C_INIT_PositionWarp"
+			m_vecWarpMin =
+			[
+				0.840000,
+				0.840000,
+				0.840000,
+			]
+			m_vecWarpMax =
+			[
+				0.840000,
+				0.840000,
+				0.840000,
+			]
+			m_nControlPointNumber = 2
+		},
+		{
+			_class = "C_INIT_RemapParticleCountToScalar"
+			m_nInputMin = 16
+			m_nInputMax = 24
+			m_flOutputMin = 0.400000
+			m_bScaleInitialRange = true
+			m_bActiveRange = true
+		},
+		{
+			_class = "C_INIT_RemapParticleCountToScalar"
+			m_nInputMin = 10
+			m_nInputMax = 16
+			m_flOutputMin = 1.000000
+			m_flOutputMax = 0.400000
+			m_bScaleInitialRange = true
+			m_bActiveRange = true
+		},
+	]
+	m_Emitters =
+	[
+		{
+			_class = "C_OP_InstantaneousEmitter"
+			m_nParticlesToEmit = 40
+		},
+	]
+	m_Children =
+	[
+		{
+			m_ChildRef = resource:"particles/econ/items/phantom_assassin/phantom_assassin_weapon_glaive_of_the_veiled_sisters/phantom_assassin_ambient_blade_glaive_of_the_veiled_sisters_c.vpcf"
+		},
+	]
+	m_bShouldSort = false
+}
